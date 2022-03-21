@@ -1,0 +1,19 @@
+{
+  "name": "khan-vuepress",
+  "version": "1.0.0",
+  "description": "Portfolio made with VuePress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "keywords": [
+    "portfolio"
+  ],
+  "author": "Jay Khan",
+  "license": "ISC",
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.36"
+  }
+}
