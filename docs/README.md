@@ -7,7 +7,7 @@ unsure of how to translate this love into a career and so I went with a program 
 different avenues and then eventually pick one.  
 
 After graduating, I found a job as a graphic designer and that solidified my commitment to creative expression.  After about 4-5 years of learning about typography, 
-color theory, layouts, I wanted to create interactive experiences.  
+color theory, layouts, I wanted to create interactive experiences. After searching for a few months, I found a UI/UX job and was hooked.  
 
 ## Tech
 
