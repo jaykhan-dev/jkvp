@@ -4,7 +4,7 @@ const workSideBar = [
         text: 'UI/UX',
         link: '/work/README.md',
         children: [
-            { text: 'Conflict Alerts', link: ''},
+            { text: 'Conflict Alerts', link: '/work/conflict-alerts.md'},
             { text: 'Pitbull Community', link: ''},
             { text: 'Budgetmore', link: ''},
             { text: 'Scribendi', link: ''},
@@ -55,7 +55,7 @@ module.exports = {
     // theme and its config
     theme: '@vuepress/theme-default',
     themeConfig: {
-      logo: 'https://vuejs.org/images/logo.png',
+      logo: '/images/jk-logo-black-border_1.svg',
       // nav
       navbar: [
           { text: 'Work', link: '/work/'},
