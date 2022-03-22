@@ -1,13 +1,6 @@
 ---
 home: true
 heroImage: /images/jaykhan-picture.png
-features:
-  - title: UI/UX
-    details: Minimal setup with markdown-centered project structure helps you focus on writing.
-  - title: Blockchain
-    details: Enjoy the dev experience of Vue, use Vue components in markdown, and develop custom themes with Vue.
-  - title: Graphic Design
-    details: VuePress generates pre-rendered static HTML for each page, and runs as an SPA once a page is loaded.
 ---
 
 ## Summary
@@ -18,8 +11,8 @@ I understand the importance of UX and testing when it comes to design.
 
 ### Goals and aspirations
 - To create stunning responsive designs for web and mobile applications and pages.  
-- Work in the blockchain industry and adapt it to legacy applications.
-- To use cutting edge technology to share my art.
+- Adapt web3 for legacy applications.
+- Share and sell my art through blockchain technology.
 
 ## Bio
 
@@ -32,14 +25,34 @@ color theory, layouts, I wanted to create interactive experiences. After searchi
 
 ## Tech
 
-| Syntax | Description |
+| Software | Description |
 | ----------- | ----------- |
-| ![]() | Title |
-| Paragraph | Text |
+| Adobe CC | Photoshop, Illustrator, XD, After Effects, Premiere Pro |
+| Vue JS | JavaScript frontend framework |
+| Figma | For prototyping or just designing in general |
+| Algorand | Blockchain to sell and share my art |
+| Tailwind CSS | Building responsive user interfaces |
+| Docker | Containers |
+| PostgreSQL | Database |
+| Wagtail | CMS |
+| AWS | S3 buckets for media |
+| Heroku | Cloud hosting |
+
 
 ## Skills
 
+- Graphic Design
+- HTML/CSS/JS
+- UI/UX Design
+- Video Editing
+- Music Production
+
 ## Web3
+
+Web3 is the era we live in now in terms of the internet.  Techonology evolves and it is imperative that if you want to survive in this rapidly changing world, to
+stay on top of things, ride the waves and learn to adapt.  Otherwise, the tide will take you. 
+
+I am actively learning about web3 and how to design accordingly. 
 
 ## Data
 
@@ -51,6 +64,4 @@ about data structures and algorithms.  This is important because if you don't ha
 I am familiar with the following CMS':
 - Wagtail - based on Django and Python
 - WordPress
-
-## User Interface
 
