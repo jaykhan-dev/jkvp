@@ -2,7 +2,7 @@
 
 ## Project details
 
-### Conflict Alerts is an app that aims to help the Ukrainians.
+### Conflict Alerts is an app to help the Ukrainians.
 
 *The premise is to allow locals to upload media to the site which will be marked on a map to help identify enemy location, weapons, and thus be able to determine strategies and tactics.*
 

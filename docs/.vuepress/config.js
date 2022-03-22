@@ -1,48 +1,81 @@
   // work side bar
 const workSideBar = [
+    { text: 'Work Overview', link: '/work/'},
     {
         text: 'UI/UX',
-        link: '/work/README.md',
+        link: '/work/uiux/README.md',
         children: [
-            { text: 'Conflict Alerts', link: '/work/conflict-alerts.md'},
-            { text: 'Pitbull Community', link: ''},
-            { text: 'Budgetmore', link: ''},
-            { text: 'Scribendi', link: ''},
-            { text: 'The Smartest City', link: ''},
-            { text: 'ShayBeas Enterprises', link: ''},
+            { text: 'Conflict Alerts', link: '/work/uiux/conflict-alerts.md'},
+            { text: 'Budgetmore', link: '/work/uiux/budgetmore.md'},
+            { text: 'Scribendi', link: '/work/uiux/scribendi.md'},
+            { text: 'ShayBeas Enterprises', link: '/work/uiux/shaybeas.md'},
         ]
     },
     {
-        text: 'JavaScript',
-        link: '/work/README.md',
+        text: 'Blockchain',
+        link: '/work/blockchain/README.md',
         children: [
-            { text: 'Melange Vue', link: ''},
-            { text: 'Khan Coins', link: ''},
-            { text: 'Spacefold', link: ''},
+            { text: 'Pitbull Community', link: '/work/blockchain/pitbull-community.md'},
+            { text: 'The Smartest City', link: '/work/blockchain/the-smartest-city.md'},
+            // { text: 'Melange Vue', link: ''},
+            { text: 'Khan Coins', link: '/work/blockchain/khan-coins.md'},
+            //{ text: 'BlueAlgo', link: ''},
         ]
     },
     {
         text: 'Graphic Design',
-        link: '/work/README.md',
+        link: '/work/graphics/README.md',
         children: [
-            { text: 'Rampart Corp', link: ''},
-            { text: 'In Air Marketing', link: ''},
-            { text: 'European Cinema', link: ''},
+            { text: 'Rampart Corp', link: '/work/graphics/rampart.md'},
+            { text: 'In Air Marketing', link: '/work/graphics/in-air-marketing.md'},
+            { text: 'European Cinema', link: '/work/graphics/european-cinema.md'},
         ]
     },    
 ]
 // blog side bar
 const blogSideBar = [
     {
-        text: 'UI/UX',
-        link: '/blog/README.md'
-    }
+        text: 'Blockchain',
+        link: '/blog/blockchain/README.md',
+        children: [
+            { text: 'STOI', link: '/blog/stoi.md'},
+            { text: 'Why Algorand?', link: ''},
+            { text: 'The Ethereum blockchain', link: ''},
+            { text: 'Ethereum latest block', link: ''}
+        ]
+    },
+    {
+        text: 'Programming',
+        //link: '',
+        children: [
+            { text: 'Headless CMS', link: '/blog/stoi.md'},
+            { text: 'JAMStack', link: ''},
+            { text: 'Vue JS', link: ''}
+        ]
+    },
+    {
+        text: 'Art',
+        //link: '',
+        children: []
+    },
+    {
+        text: 'Life',
+        //link: '',
+        children: [
+            { text: 'Meditations', link: '/blog/stoi.md'},
+            { text: 'The Art of War', link: ''},
+            { text: 'DAO', link: ''}
+        ]
+    },
 ]
-// blog side bar
+// Music side bar
 const musicSideBar = [
     {
-        text: 'UI/UX',
-        link: '/blog/README.md'
+        text: 'Eternal Blue Sky',
+        link: '/music/README.md',
+        children: [
+            { text: 'Ophelia', link: '/music/ebs/Ophelia.md'}
+        ]
     }
 ]
 // settings
@@ -50,7 +83,7 @@ module.exports = {
     // site config
     lang: 'en-US',
     title: 'J. Khan',
-    description: 'Past and current work with a blog',
+    description: 'Portfolio',
   
     // theme and its config
     theme: '@vuepress/theme-default',
@@ -58,17 +91,26 @@ module.exports = {
       logo: '/images/jk-logo-black-border_1.svg',
       // nav
       navbar: [
-          { text: 'Work', link: '/work/'},
-          { text: 'Blog', link: '/blog/'},
-          { text: 'Contact', link: '/contact/'},
-          { text: 'Music', link: '/music/'},
-          { text: 'Github', link: 'https://github.com/jaykhan-dev'},
-          { text: 'Linkedin', link: 'https://www.linkedin.com/in/jkhanprofile'},
+        { 
+            text: 'Work', 
+            link: '/work/',
+            children: [
+                { text: 'UI/UX', link: '/work/uiux/README.md'},
+                { text: 'Blockchain', link: '/work/blockchain/README.md'},
+                { text: 'Graphic Design', link: '/work/graphics/README.md'}
+            ]
+        },
+        { text: 'Blog', link: '/blog/'},
+        { text: 'Contact', link: '/contact/'},
+        { text: 'Music', link: '/music/'},
+        { text: 'Github', link: 'https://github.com/jaykhan-dev'},
+        { text: 'Linkedin', link: 'https://www.linkedin.com/in/jkhanprofile'},
       ],
       // sidebars
       sidebar: {
           '/work/': workSideBar,
           '/blog/': blogSideBar,
+          '/music/': musicSideBar,
       },
     },
   }
