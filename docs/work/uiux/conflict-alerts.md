@@ -2,6 +2,8 @@
 
 ## Project details
 
+[See prototype](https://conflict-alerts.netlify.app)
+
 ### Conflict Alerts is an app to help the Ukrainians.
 
 *The premise is to allow locals to upload media to the site which will be marked on a map to help identify enemy location, weapons, and thus be able to determine strategies and tactics.*

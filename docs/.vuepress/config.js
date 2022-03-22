@@ -72,9 +72,9 @@ const blogSideBar = [
 const musicSideBar = [
     {
         text: 'Eternal Blue Sky',
-        link: '/music/README.md',
+        link: '/music/ebs/README.md',
         children: [
-            { text: 'Ophelia', link: '/music/ebs/Ophelia.md'}
+            //{ text: 'Ophelia', link: '/music/ebs/Ophelia.md'}
         ]
     }
 ]

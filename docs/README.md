@@ -32,27 +32,28 @@ color theory, layouts, I wanted to create interactive experiences. After searchi
 | Figma | For prototyping or just designing in general |
 | Algorand | Blockchain to sell and share my art |
 | Tailwind CSS | Building responsive user interfaces |
-| Docker | Containers |
+| Docker | Containers  |
 | PostgreSQL | Database |
-| Wagtail | CMS |
+| Wagtail | CMS based on Django and Python |
 | AWS | S3 buckets for media |
 | Heroku | Cloud hosting |
 
 
 ## Skills
 
-- Graphic Design
-- HTML/CSS/JS
-- UI/UX Design
-- Video Editing
-- Music Production
+- **Graphic Design** - 5 years
+- **HTML/CSS/JS** - 3 years
+- **UI/UX Design** - 3 years
+- **Video Editing** - 3 years
+- **Music Production** - 12 years
 
 ## Web3
 
 Web3 is the era we live in now in terms of the internet.  Techonology evolves and it is imperative that if you want to survive in this rapidly changing world, to
 stay on top of things, ride the waves and learn to adapt.  Otherwise, the tide will take you. 
 
-I am actively learning about web3 and how to design accordingly. 
+I am actively learning about web3 and how to design accordingly.  The main challenge is adapting blockchain for existing applications.  It is my belief that
+companies will want to utilize this powerful technology seeing how slow and expensive traditional financial systems can be.  There is also a matter of trust.  
 
 ## Data
 

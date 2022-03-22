@@ -6,13 +6,13 @@ It was like someone had turned on a lightbulb in a dark room, or the clouds had 
 
 ## Eternal Blue Sky
 
-An album that I am working on.  At the moment there are about 3 tracks that have all the pieces.  
+An album that I am working on.  See the link below for the current status.
 
 [Soundcloud](https://soundcloud.com/mixbase-cloud)
 
 ## Production
 
 I use Ableton for all my compositions, arrangement, mixing and mastering.  With a Bass Station II, which is a great bass synth, the limitations are 
-only in the imagination (o the soundbank).  
+only in the imagination (or the soundbank).
 
 

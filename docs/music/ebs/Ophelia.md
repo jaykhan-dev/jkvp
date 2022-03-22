@@ -1,4 +1,0 @@
-# Ophelia
-
-## Demo
-[Soundcloud Demo]()
