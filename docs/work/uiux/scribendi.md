@@ -10,7 +10,7 @@ Below is a graphic design project for an article on AI and Natural Language Proc
 
 ## Graphic design for a magazine article
 
-![Scribendi AI article graphic design](/images/work/uiux/scribendi/)
+![Scribendi AI article graphic design]()
 
 ## Marketing and Education Videos
 
@@ -20,7 +20,7 @@ Using Adobe After Effects, I created a bunch of videos which received over 500,0
 
 ## New home page design
 
-![Home Page redesign](/images/)
+![Home Page redesign]()
 
 In order to modernize the style, I went with a graphic oriented design that could then be animated. Stock photos have one drawback, which is that they are stock. I've seen the same stock photo for several different businesses, and people only faintly notice it because of how generic they look. If you are a company that you want to rebrand, I'd suggest keep stock photos to a minimum.
 
@@ -28,7 +28,7 @@ In order to modernize the style, I went with a graphic oriented design that coul
 
 The company created a new service and asked for a design. The below screen was again more graphic oriented, with less text. Research has shown that visitors to the site don't like to read a novel, even if they are writers. They need a service, and that is why there are at your website. Always make it easy for the user to interact with the website.
 
-![Scribendi Translation Service](/images/work/uiux/scribendi/)
+![Scribendi Translation Service]()
 
 ## Mobile Version
 
@@ -40,4 +40,4 @@ The company decided to expand into China. This was at a time when relations were
 
 English is seen as a good skill to have in the international market which is why parents and students will spend money to learn it and have it edited.
 
-![Scribendi Chinese Homepage](/images/work/uiux/scribendi/)
+![Scribendi Chinese Homepage]()
