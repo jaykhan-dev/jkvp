@@ -1,6 +1,6 @@
 # Scribendi
 
-### A Canadian company which specializes in English Editing and Proofreading
+[[toc]]
 
 ## About the company
 

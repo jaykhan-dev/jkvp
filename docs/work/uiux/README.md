@@ -1,5 +1,21 @@
 # UI/UX
 
+## Projects
+
+### 1. Conflict Alerts
+[Project Page](/work/uiux/conflict-alerts.md)
+
+A project to help Ukrainian people
+
+### 2. Budgetmore
+[Project Page](/work/uiux/budgetmore.md)
+
+### 3. Scribendi
+[Project Page](/work/uiux/scribendi.md)
+
+### 4. ShayBeas Enterprises
+[Project Page](/work/uiux/shaybeas.md)
+
 ## Design Process
 
 ### 1. Empathize: 

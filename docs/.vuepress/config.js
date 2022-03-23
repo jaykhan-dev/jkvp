@@ -18,8 +18,8 @@ const workSideBar = [
             { text: 'Pitbull Community', link: '/work/blockchain/pitbull-community.md'},
             { text: 'The Smartest City', link: '/work/blockchain/the-smartest-city.md'},
             // { text: 'Melange Vue', link: ''},
-            { text: 'Khan Coins', link: '/work/blockchain/khan-coins.md'},
-            //{ text: 'BlueAlgo', link: ''},
+            //{ text: 'Khan Coins', link: '/work/blockchain/khan-coins.md'},
+            { text: 'NFTs', link: '/work/blockchain/NFTs.md'},
         ]
     },
     {
@@ -39,37 +39,45 @@ const blogSideBar = [
         link: '/blog/blockchain/README.md',
         children: [
             { text: 'STOI', link: '/blog/stoi.md'},
-            { text: 'Why Algorand?', link: ''},
-            { text: 'The Ethereum blockchain', link: ''},
-            { text: 'Ethereum latest block', link: ''}
+            //{ text: 'Why Algorand?', link: ''},
+            //{ text: 'The Ethereum blockchain', link: ''},
+            //{ text: 'Ethereum latest block', link: ''}
         ]
     },
     {
         text: 'Programming',
         //link: '',
         children: [
-            { text: 'Headless CMS', link: '/blog/stoi.md'},
-            { text: 'JAMStack', link: ''},
-            { text: 'Vue JS', link: ''}
+            //{ text: 'Headless CMS', link: '/blog/stoi.md'},
+            //{ text: 'JAMStack', link: ''},
+            //{ text: 'Vue JS', link: ''}
         ]
     },
     {
         text: 'Art',
         //link: '',
-        children: []
+        children: [
+            //{ text: 'Subotai', link: '' },
+        ]
     },
     {
         text: 'Life',
         //link: '',
         children: [
-            { text: 'Meditations', link: '/blog/stoi.md'},
-            { text: 'The Art of War', link: ''},
-            { text: 'DAO', link: ''}
+            //{ text: 'Meditations', link: '/blog/stoi.md'},
+            { text: 'Alan Watts', link: '/blog/life/alan-watts.md'},
         ]
     },
 ]
 // Music side bar
 const musicSideBar = [
+    {
+        text: 'Music Overview',
+        link: '/music/README.md',
+        children: [
+            //{ text: 'Ophelia', link: '/music/ebs/Ophelia.md'}
+        ]
+    },
     {
         text: 'Eternal Blue Sky',
         link: '/music/ebs/README.md',
@@ -93,7 +101,7 @@ module.exports = {
       navbar: [
         { 
             text: 'Work', 
-            link: '/work/',
+            link: '/work/README.md',
             children: [
                 { text: 'UI/UX', link: '/work/uiux/README.md'},
                 { text: 'Blockchain', link: '/work/blockchain/README.md'},
@@ -101,8 +109,8 @@ module.exports = {
             ]
         },
         { text: 'Blog', link: '/blog/'},
-        { text: 'Contact', link: '/contact/'},
         { text: 'Music', link: '/music/'},
+        { text: 'Contact', link: '/contact/'},
         { text: 'Github', link: 'https://github.com/jaykhan-dev'},
         { text: 'Linkedin', link: 'https://www.linkedin.com/in/jkhanprofile'},
       ],

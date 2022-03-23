@@ -1,4 +1,29 @@
 # Blockchain
 
-This is the by far the biggest revolution in the technology world in the past decade or so.  Though still relatively new, the shift in focus from centralized banks
-to decentralized financial systems is inevitable.  
+## Satoshi Nakamoto
+
+On January 3rd, 2009, [Satoshi Nakamoto]() wrote this text when he minted the first Bitcoin.
+
+>“The Times 03/Jan/2009 Chancellor on brink of second bailout for banks.”
+
+This is imporant for many reasons:
+
+
+>“A purely peer-to-peer version of electronic cash would allow online payments to be sent directly from one party to another without going through a financial institution.”
+
+
+## What is a Blockchain?
+
+A Blockchain is a **distributed digital ledger**.  
+
+## Proof of Work
+
+## Proof of Stake
+
+## Web3
+
+## Digital Gold
+
+## Disruption
+
+## Use Cases
