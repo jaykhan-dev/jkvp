@@ -1,5 +1,13 @@
 # The Smartest City
 
+## Prototype
+
+This project was made with VueJS, ThreeJS, and GSAP.  This was a great project for learning purposes.  It certainly gave me a new outlook on what is possible with Vue and expanded my knowledge in creating components, adding 3D graphics, and using modern JavaScript animation techniques with GSAP. 
+
+[See Prototype](https://thesmartestcity.netlify.app/about)
+
+![The Smartest City home](/images/work/the-smartest-city/the-smartest-city.png)
+
 ## About the company
 
 [See Official Site](https://trigan.org/)
@@ -7,14 +15,6 @@
 From their official site:
 
 >We have designed and are developing our own layer 1 blockchain. The Trigan blockchain is intended to address the major issues which plague current blockchain solutions. Our blockchain will be safer, faster and with far greater utility than existing blockchains, yet will also be fully decentralised.
-
-## Prototype
-
-This project was made with VueJS, ThreeJS, and GSAP.  This was a great project for learning purposes.  It certainly gave me a new outlook on what is possible with Vue and expanded my knowledge in creating components, adding 3D graphics, and using modern JavaScript animation techniques with GSAP. 
-
-[See Prototype](https://thesmartestcity.netlify.app)
-
-![The Smartest City home](/images/work/the-smartest-city/the-smartest-city.png)
 
 ## GSAP
 

@@ -44,7 +44,7 @@ const blogSideBar = [
                 children: [
                     //{ text: 'PureStake', link: '/blog/blockchain/algorand/purestake.md' },
                     { text: 'STOI', link: '/blog/blockchain/algorand/stoi.md'},
-                    { text: 'Create a Test Account', link: '/blog/blockchain/algorand/test-account.md'}
+                    //{ text: 'Create a Test Account', link: '/blog/blockchain/algorand/test-account.md'}
                 ]
             },
             //{ text: 'The Ethereum blockchain', link: ''},
@@ -53,7 +53,7 @@ const blogSideBar = [
     },
     {
         text: 'Programming',
-        //link: '',
+        link: '/blog/programming/',
         children: [
             //{ text: 'Headless CMS', link: '/blog/stoi.md'},
             //{ text: 'JAMStack', link: ''},
@@ -62,14 +62,14 @@ const blogSideBar = [
     },
     {
         text: 'Art',
-        //link: '',
+        link: '/blog/art/',
         children: [
             //{ text: 'Subotai', link: '' },
         ]
     },
     {
         text: 'Life',
-        //link: '',
+        link: '/blog/life/',
         children: [
             //{ text: 'Meditations', link: '/blog/stoi.md'},
             { text: 'Alan Watts', link: '/blog/life/alan-watts.md'},

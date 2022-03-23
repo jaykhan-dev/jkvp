@@ -3,7 +3,7 @@
 ## Projects
 
 ### 1. Conflict Alerts
-A project to help Ukrainian people
+A project to help Ukrainian people.
 
 [Project Page](/work/uiux/conflict-alerts.md)
 

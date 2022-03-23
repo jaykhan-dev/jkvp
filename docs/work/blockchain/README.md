@@ -17,7 +17,9 @@ A blockchain project running on the Ethereum blockchain.
 [See project page](/work/blockchain/the-smartest-city.md)
 
 ![The Smartest City home page](/images/work/the-smartest-city/the-smartest-city.png)
+
 ### 3. NFTs
+The Algorand blockchain provides an easy way to create NFTs.  I've started a small collection of images of my motherland, Kashmir.  I am currently working on creating music NFTs that I hope to launch this year.
 
 [See project page](/work/blockchain/NFTs.md)
 

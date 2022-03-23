@@ -6,6 +6,14 @@ It was like someone had turned on a lightbulb in a dark room, or the clouds had 
 
 ![The Beatles](/images/the-beatles.jpg)
 
+## Blockchain
+
+I plan on using the Algorand blockchain to conduct music business.  It is the way forward because traditional systems have failed us.  It is very difficult for new and upcoming artists to gain any foothold in the current climate of centralized powers, and large corporations like Universal which own so much of the music output these days.  It is a far better policy to deal with fans directly.  
+
+The simple idea of owning a song with the artist is revolutionary in itself.  Writers can be sure that their creations can be traded in a trustless manner, in other words there is no need for middlemen and third parties who always take a large cut of the profits to line their pockets and leave the artist with peanuts. 
+
+For music related projects on Algorand, check out [this page](https://ecosystem.algorand.com/explore?categories=music)
+
 ## Eternal Blue Sky
 
 An album that I am working on.  See the link below for the current status.
