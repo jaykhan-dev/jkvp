@@ -38,8 +38,15 @@ const blogSideBar = [
         text: 'Blockchain',
         link: '/blog/blockchain/README.md',
         children: [
-            { text: 'STOI', link: '/blog/stoi.md'},
-            //{ text: 'Why Algorand?', link: ''},
+            { 
+                text: 'Algorand?', 
+                link: '/blog/blockchain/algorand/',
+                children: [
+                    //{ text: 'PureStake', link: '/blog/blockchain/algorand/purestake.md' },
+                    { text: 'STOI', link: '/blog/blockchain/algorand/stoi.md'},
+                    { text: 'Create a Test Account', link: '/blog/blockchain/algorand/test-account.md'}
+                ]
+            },
             //{ text: 'The Ethereum blockchain', link: ''},
             //{ text: 'Ethereum latest block', link: ''}
         ]
