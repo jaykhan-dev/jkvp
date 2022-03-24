@@ -4,9 +4,9 @@
 
 [See design](https://shaybeas.webflow.io)
 
-The client is based in Florida, USA and his business specializes in turning leads and referrals into actual customers. It is a unique model for real estate but requires a strong CRM game.  This is because building relationships with potential clients is important to the success of the enterprise.  
+The client is based in Florida, USA and his business specializes in turning leads and referrals into actual customers. It is a unique model for real estate but requires a strong CRM game.
 
-I've come to realize that in business, technology is used to make tasks easier but the real business is done on a human level.  This is where the user experience comes in handy.  Knowing the customer well is the first step in creating a solid experience that will generate revenue and expand the business.  Word of mouth marketing has always been the best, in any time of history.  
+I've come to realize that in business, technology is used to make tasks easier but the real business is done on a **human level**.  This is where the user experience comes in handy.  Knowing the customer well is the first step in creating a solid experience that will generate revenue and expand the business.  Word of mouth marketing has always been the best form of marketing, in any time in history.
 
 ## Hi-Fi design
 
@@ -19,5 +19,5 @@ One good thing that should be pointed out, is that billing a client is rather ea
 
 ## Zapier
 
-[Zapier](https://zapier.com/) is a cool application that allows you to automate mundane tasks like setting up email alerts.  In this case, the client used Zapier to populate the CRM that he was using with the data that the needed in order to make business decisions, which were whether to pitch to a lead on a home buyer based on their current needs.  
+[Zapier](https://zapier.com/) is a cool application that allows you to automate mundane tasks like setting up email alerts.  In this case, the client used Zapier to populate the CRM that he was using. The first step was to collect the data in order to make business decisions, which were to pitch to a lead or referral based on their current needs.  
 

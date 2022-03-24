@@ -29,7 +29,7 @@ The user flow is about uploading sample data to play around with.  It requires t
 ![Budgetmore User Flow](/images/work/budgetmore/budgetmore-sampledata-userflow.png)
 
 ## Backend
-The user is taken to the backend which is being written in [C#] and [Blazor] on the [.NET] platform from Microsoft. In the screen shot below we change to the **Import** page.
+The user is taken to the backend which is being written in [C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language)) and [Mudblazor](https://mudblazor.com/) on the [.NET](https://dotnet.microsoft.com/en-us/) platform from Microsoft. In the screen shot below we change to the **Import** page.
 
 ![Budgetmore Import page](/images/work/budgetmore/import-page.png)
 

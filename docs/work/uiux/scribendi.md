@@ -8,9 +8,8 @@
 
 Scribendi specializes in editing and proofreading English documents. It could be anything from a resume to a thesis. They have freelancers/professionals around the world who upload their changes onto the website. The website is what I worked on as a UI/UX designer.
 
-Below is a graphic design project for an article on AI and Natural Language Processing (NLP). I met the individual who was responsible for NLP and he used Python which seems like a natural language to work with machine learning.
-
 ## Graphic design for a magazine article
+Below is a graphic design project for an article on AI and Natural Language Processing (NLP). I was going for an artistic and modern look.  The original graphic was a single hummingbird that the writer had found on the internet.  I added another hummingbird into the mix and changed the graphics so that it was just lines rather than colors.
 
 ![Scribendi AI article graphic design](/images/work/scribendi/ai-article.jpg)
 
@@ -43,10 +42,11 @@ The company created a new service and asked for a design. The below screen was a
 ## Wireframe for a new checkout system
 For this design, my task was to break down the checkout system into fewer steps.  After going through the checkout they had at the time, I noticed that it took too long and the forms required lots of information.  I cut down the steps by two and made sure the price was always present, similar to how Amazon does it. 
 
+I enjoyed this project because I learnt about e-commerce and how important the UX is in order to retain customers. The prototype was built with Adobe XD. 
+
 ![Scribendi new checkout System](/images/work/scribendi/checkout.png)
 
 ## Footer redesign
-
 ![Scribendi Footer](/images/work/scribendi/footer.png)
 
 ## Chinese Homepage
