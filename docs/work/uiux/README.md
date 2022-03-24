@@ -34,17 +34,19 @@ A client based in Florida, USA.  The business model turns leads into actual cust
 
 ## Design Process
 
-### 1. Empathize: 
-Understand the target audience
+I have boiled down my design process into 5 steps. 
 
-### 2. Define: 
-The goals of the project
+### 1. Empathize
+Understand the target audience by creating personas and trying to understand the problem from the users perspective.  
 
-### 3. Ideate and Collaborate: 
-Initial sketches, storyboards, questions, outlines, mock-ups and features
+### 2. Define
+The goals of the project and what you are trying to achieve.  It is important to be as detailed as possible. 
 
-### 4. Prototype: 
-Create an initial design that is interactive
+### 3. Ideate and Collaborate
+Initial sketches, storyboards, questions, outlines, mock-ups and features.
 
-### 5. Test: 
-Responsiveness and functionality
+### 4. Prototype
+Create an initial design that is interactive.  Usually with a tool like Adobe XD or Figma.  Sometimes I use Vue JS for rapid prototyping.
+
+### 5. Test
+Responsiveness and functionality.
