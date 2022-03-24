@@ -14,6 +14,18 @@ I used Adobe Illustrator to create the icons and logo, and XD to for the wirefra
 
 ![Conflict Alerts logo](/images/work/conflict-alerts/post.jpg)
 
+## Branding
+
+### Concept 1
+The idea was to use the exclamation mark with a signal graphic, similar to what you might see on a radar. 
+
+![Conflict Alerts logo concept 1](/images/work/conflict-alerts/ca-01.jpg)
+
+### Concept 2
+Combining a folded map with the exclamation mark in a triangle, which is universal for an alert.  The group decided to go with this one. 
+
+![Conflict Alerts logo concept 2](/images/work/conflict-alerts/ca-02.jpg)
+
 ## Wireframes
 This is a wireframe for a new design. [See prototype](https://conflict-alerts.netlify.app)
 It is a work in progress at the moment and the main blocker for release is hooking up the backend data, logic, and responsiveness.
