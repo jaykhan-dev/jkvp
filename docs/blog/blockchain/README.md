@@ -2,7 +2,7 @@
 
 ## Satoshi Nakamoto
 
-On January 3rd, 2009, [Satoshi Nakamoto](https://en.wikipedia.org/wiki/Satoshi_Nakamoto) wrote this text when he minted the first Bitcoin.
+On January 3rd, 2009, [Satoshi Nakamoto](https://en.wikipedia.org/wiki/Satoshi_Nakamoto) wrote this text when he mined the first Bitcoin.
 
 >“The Times 03/Jan/2009 Chancellor on brink of second bailout for banks.”
 
@@ -18,7 +18,7 @@ It is not surprising that governments and banks don't like the Blockchain becaus
 
 ## What is a Blockchain?
 
-A Blockchain is a **distributed digital ledger**.  Individual blocks contain information about a Bitcoin transaction.  These blocks are then added one at a time and they cannot be changed in any way.  In other words, a blockchain is immutable when it comes to it's ledger history.  Since the blockchain is public knowledge, anyone can see the transactions since the beginning of the blockchain, also know as the [genesis block](https://en.bitcoin.it/wiki/Genesis_block)
+A Blockchain is a **distributed digital ledger**.  Individual blocks contain information about a crypto transaction.  These blocks are then added one at a time and they cannot be changed in any way.  In other words, a blockchain is immutable when it comes to the ledger history.  Since the blockchain is public knowledge, anyone can see the transactions since the beginning of the blockchain, also know as the [genesis block](https://en.bitcoin.it/wiki/Genesis_block)
 
 From the main man, Satoshi: 
 
@@ -38,7 +38,7 @@ While this seems like a compromise, it is also [not necessary](https://www.algor
 
 ## Proof of Work
 
-Proof of Work is the main consensus used by Bitcoin and Ethereum to add blocks to the ledger.  This is rewarded by the respective cryptocurrencies when the [ASIC mining machines](https://www.newegg.com/p/pl?d=bitcoin+asic) solve a very hard cryptographic problem. 
+Proof of Work is the main consensus protocol used by Bitcoin and Ethereum to add blocks to the ledger.  This is rewarded by the respective cryptocurrencies when the [ASIC mining machines](https://www.newegg.com/p/pl?d=bitcoin+asic) solve a very hard cryptographic problem. 
 
 [Bitcoin wiki:](https://en.bitcoin.it/wiki/Proof_of_work)
 
@@ -49,7 +49,7 @@ The most significant problem is the [energy use](https://www.forbes.com/advisor/
 
 ## Proof of Stake
 
-Proof of Stake is a different consensus mechanism.  It invovles **staking** your coins in a stake pool so that you can become a validator, which is essentially the same thing as being a Bitcoin miner.  The key difference is that there is not cryptographic puzzle to solve and so the energy consumption is much smaller.  
+Proof of Stake is a different consensus mechanism.  It invovles **staking** your coins in a stake pool so that you can become a validator, which is essentially similar to being a Bitcoin miner.  The key difference is that there is no cryptographic puzzle to solve and so the energy consumption is much smaller.  
 
 Ethereum which is currently using the Proof of Work consensus, is switching over to [Proof of Stake](https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/). It requires 32ETH to be staked in order to become a validator.  Since the current price of ETH is over $3000 USD, it can be quite expensive.
 

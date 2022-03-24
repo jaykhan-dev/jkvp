@@ -39,7 +39,7 @@ const blogSideBar = [
         link: '/blog/blockchain/README.md',
         children: [
             { 
-                text: 'Algorand?', 
+                text: 'Algorand', 
                 link: '/blog/blockchain/algorand/',
                 children: [
                     //{ text: 'PureStake', link: '/blog/blockchain/algorand/purestake.md' },
@@ -53,23 +53,23 @@ const blogSideBar = [
     },
     {
         text: 'Programming',
-        link: '/blog/programming/',
+        //link: '/blog/programming/',
         children: [
-            //{ text: 'Headless CMS', link: '/blog/stoi.md'},
+            { text: 'Vue JS', link: '/blog/programming/vuejs.md'},
             //{ text: 'JAMStack', link: ''},
             //{ text: 'Vue JS', link: ''}
         ]
     },
     {
         text: 'Art',
-        link: '/blog/art/',
+        //link: '/blog/art/',
         children: [
-            //{ text: 'Subotai', link: '' },
+            { text: 'Dune', link: '/blog/art/dune.md' },
         ]
     },
     {
         text: 'Life',
-        link: '/blog/life/',
+        //link: '/blog/life/',
         children: [
             //{ text: 'Meditations', link: '/blog/stoi.md'},
             { text: 'Alan Watts', link: '/blog/life/alan-watts.md'},

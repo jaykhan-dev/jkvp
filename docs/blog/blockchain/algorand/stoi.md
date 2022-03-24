@@ -19,5 +19,8 @@ From my understanding, STOI is a new way of owning music. Based on [smart contra
 >Art wants first to be seen and heard, and second, to be appreciated
 
 ## DMC
+DMC is a legendary rapper from the pioneering hip-hop group [Run-DMC](http://www.rundmc.com/).  He recently created a song called [Million Scars](https://stoi.org/s/3) which runs on a smart contract on Algorand.  What makes this revolutionary is that fans can own a part of the song in tokens.  This means that if the song does well and earn money, so do the token holders.  In other words, it's in my best interest to promote the song. 
 
-DMC, Darryl McDaniels, Devastating Mic Control. 
+It's projects like these that convinced me that Algorand is simply the best blockchain around. 
+
+![DMC portrait](/images/blog/algorand/dmc.jpg)
