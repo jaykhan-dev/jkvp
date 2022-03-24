@@ -2,7 +2,9 @@
 
 ### A budgeting application
 
-[See Prototype](https://budgetmore.netlify.app)
+[See Landing page prototype](https://budgetmore.netlify.app)
+
+[See live project - Work in progress](https://budgetmore.com/)
 
 ![Budgetmore Hero section](/images/work/budgetmore/hero-section.png)
 
@@ -16,11 +18,32 @@ The premise of the application is to help regular people with budgeting. This is
 My role is UI/UX which involves creating wireframes, user flows, and maybe using Vue JS for the frontend but that is still to be decided.
 
 ## Wireframes
+The landing page is rather simple.  The only interaction is really in the login/signup section.  The footer is an overview of the whole project but since the backend is still being worked on, all the individual pages need copy and a design. 
 
 ![Budgetmore landing wireframe](/images/work/budgetmore/budgetmore-wireframe.png)
 
 ## User Flows
 
-The user flow is about uploading sample data to play around with. 
+The user flow is about uploading sample data to play around with.  It requires that you signup first and then import the sample data to play around with. 
 
 ![Budgetmore User Flow](/images/work/budgetmore/budgetmore-sampledata-userflow.png)
+
+## Backend
+The user is taken to the backend which is being written in [C#] and [Blazor] on the [.NET] platform from Microsoft. In the screen shot below we change to the **Import** page.
+
+![Budgetmore Import page](/images/work/budgetmore/import-page.png)
+
+By clicking on the 'Import Sample Data' button in purple, we can then use made up data to play around with.
+
+![Budgetmore Import page](/images/work/budgetmore/sample-data.png)
+
+If everything works, there should be a success message in the bottom right corner.
+
+![Budgetmore Import page](/images/work/budgetmore/success.png)
+
+Finally, by switching to the Income page, we can see the sample data.  As you can see, there are more functions and features, but these are currently being worked on by the main developer.
+
+![Budgetmore Import page](/images/work/budgetmore/income-page.png)
+
+
+

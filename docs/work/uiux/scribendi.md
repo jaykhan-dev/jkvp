@@ -41,6 +41,7 @@ The company created a new service and asked for a design. The below screen was a
 ![Scribendi Translation service mobile](/images/work/scribendi/mobile-translation.png)
 
 ## Wireframe for a new checkout system
+For this design, my task was to break down the checkout system into fewer steps.  After going through the checkout they had at the time, I noticed that it took too long and the forms required lots of information.  I cut down the steps by two and made sure the price was always present, similar to how Amazon does it. 
 
 ![Scribendi new checkout System](/images/work/scribendi/checkout.png)
 

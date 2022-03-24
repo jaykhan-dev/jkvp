@@ -1,3 +1,3 @@
 # Programming Blog
 
-I'm mainly interesed in Python and 
+Python and JavaScript. 

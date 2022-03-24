@@ -4,7 +4,7 @@ These are the NFTs I've minted on Algogems (see below).  I am currently working 
 
 [See NFTs](https://www.algogems.io/collection/3008)
 
-[See music project](/music/)
+[See music project](/music/ebs/)
 
 ## Important information with regards to NFTs
 

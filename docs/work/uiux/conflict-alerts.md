@@ -12,18 +12,17 @@ There is a project manager, Josh G, a backend team (Django) and a Frontend team 
 The Github project is private at the moment. My responsibilities include branding, graphics, icons, and frontend.
 I used Adobe Illustrator to create the icons and logo, and XD to for the wireframes and User Flows.
 
-
 ![Conflict Alerts logo](/images/work/conflict-alerts/post.jpg)
-
 
 ## Wireframes
 This is a wireframe for a new design. [See prototype](https://conflict-alerts.netlify.app)
-It is a work in progress at the moment and the main blocker for release is hooking up the backend data, logic, and responsiveness. 
-
+It is a work in progress at the moment and the main blocker for release is hooking up the backend data, logic, and responsiveness.
 
 ![Conflict Alerts main page wireframe](/images/work/conflict-alerts/conflict-alerts-wireframe.png)
 
 ## User Flows
+The main purpose of this site is to allow users to upload videos.  In this case, the user must signup first and then use the 'Upload' video link to select a video.  There are certain decisions that need to be made like location and tags.  The tags will determine what icon gets used and the location is necessary to help Ukrainians look up hot spots. 
+
 ![Conflict Alerts post video user flow](/images/work/conflict-alerts/userflow.png)
 
 
