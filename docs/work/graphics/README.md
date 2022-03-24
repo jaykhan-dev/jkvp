@@ -1,5 +1,7 @@
 # Graphic Design
 
+[[toc]]
+
 ## Rampart Corp
 
 [Project Page](/work/graphics/rampart.md)

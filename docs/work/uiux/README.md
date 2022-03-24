@@ -1,5 +1,7 @@
 # UI/UX
 
+[[toc]]
+
 ## Projects
 
 ### 1. Conflict Alerts

@@ -1,10 +1,10 @@
 # Work
 
-## UI/UX
+## [UI/UX](/work/uiux/)
 
-## Blockchain
+## [Blockchain](/work/blockchain/)
 
-## Graphic Design
+## [Graphic Design](/work/graphics/)
 
 
 
