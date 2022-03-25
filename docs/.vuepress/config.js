@@ -65,6 +65,7 @@ const blogSideBar = [
         //link: '/blog/art/',
         children: [
             { text: 'Dune', link: '/blog/art/dune.md' },
+            //{ text: 'Subotai', link: '/blog/art/subotai.md' },
         ]
     },
     {
