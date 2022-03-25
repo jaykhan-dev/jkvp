@@ -4,9 +4,9 @@
 
 [See official site](https://vuejs.org/)
 
-Vue JS is a modern JavaScript framework that uses Node, webpack bundling, and ES modules.  It is a great for creating user interfaces because Vue falls into the "View" category of the [MVC] model of modern web development.  It's possible to add third party libraries like Three JS, GSAP to add more sophisticated animations and 3D spaces.
+Vue JS is a modern JavaScript framework that uses Node, webpack bundling, and ES modules.  It is great for creating user interfaces because Vue falls into the "View" category of the [MVC](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller) model of modern web development.  It's possible to add third party libraries like Three JS, GSAP to add more sophisticated animations and 3D spaces.
 
-The simplicity of Vue JS is what attracted me to it.  It is intuitive and it's easy to setup and deploy.  Being similar to other frameworks like React and Angular, Vue is not backed by a mega corporation but rather the online community of developers who decided to improve Vue out of appreciation.  It's open source and has a robust ecosystem.   
+The simplicity of Vue JS is what attracted me to it.  It is intuitive and easy to setup and deploy.  Being similar to other frameworks like React and Angular, Vue is not backed by a mega corporation but rather by the online community of developers who decided to improve Vue out of appreciation.  It's open source and has a robust ecosystem.   
 
 ## The ecosystem
 The Vue JS ecosystem is growing everyday.  Though not the most popular JavaScript framework (that honor belongs to React), it is attracting developers due its inherent simplicity and developer satisfaction.
@@ -21,7 +21,7 @@ VueX is the official state management for Vue.  When an application gets more an
 ### Vue Router
 [Vue Router docs](https://router.vuejs.org/)
 
-The official router for Vue JS. A single page app requires a different kind of routing system than the traditional method of loading a new page for each link.  In SPA's, there is only one page that gets loaded but the DOM can be manipulated with JavaScript.  This is great if you want a site that feels liek a **real time** application, similar to [AJAX](https://www.w3schools.com/xml/ajax_intro.asp).
+The official router for Vue JS. A single page app requires a different kind of routing system than the traditional method of loading a new page for each link.  In SPA's, there is only one page that gets loaded but the DOM can be manipulated with JavaScript.  This is great if you want a site that feels like a **real time** application, similar to [AJAX](https://www.w3schools.com/xml/ajax_intro.asp).
 
 ### Vite
 [Vite Docs](https://vitejs.dev/)
@@ -29,7 +29,7 @@ The official router for Vue JS. A single page app requires a different kind of r
 From the official docs:
 >Vite (French word for "quick", pronounced /vit/, like "veet") is a build tool that aims to provide a faster and leaner development experience for modern web projects.
 
-The two main parts are the **dev server** and the uses the **Rollup** bundling tool to make servers super fast. I use Vite with all my projects because the developer experience is much nicer. 
+The two main parts are the **dev server** and uses the **Rollup** bundling tool to make servers super fast. I use Vite with all my projects because the developer experience is much nicer. 
 
 ### Nuxt
 [Official site](https://nuxtjs.org/)
@@ -42,7 +42,7 @@ Nuxt is a framework built on top of Vue JS.  It has many features that make it a
 
 This site is built with VuePress which is a great way of building static sites.  Working with data is essential in todays world but how that data is rendered on the client is something every UX designer must take into consideration.  
 
-Speed is major issue with all websites and applications and compromising can lead to lost business.  In this case, I wanted a site that would *load fast*, and has a great UX and easy development environments.
+Speed is a major issue with all websites and applications and compromising can lead to lost business.  In this case, I wanted a site that would *load fast*, and has a great UX and easy development environments.
 
 If SEO is a matter of concern, then VuePress is built to be SEO-friendly.
 

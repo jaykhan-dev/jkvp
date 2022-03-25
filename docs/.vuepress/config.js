@@ -105,6 +105,7 @@ module.exports = {
     theme: '@vuepress/theme-default',
     themeConfig: {
       logo: '/images/jk-logo-black-border_1.svg',
+      search: true,
       // nav
       navbar: [
         { 

@@ -6,8 +6,7 @@
 
 I recently came across this **awesome** project.  Ideas like these are exciting because they are using cutting edge technology like the Algorand Blockchain to help
 artists be more self-sustaining. As far as I'm concerned, this is the way forward.  The music industry will adjust to this new development.  Antiquated ways of dishing 
-royalties and rights are starting to feel the heat.  It makes more sense to share your art directly with your fans because since the beginning of time, the best
-marketing is P2P. 
+royalties and rights are starting to feel the heat.  It makes more sense to share your art directly with your fans because the best marketing is P2P. 
 
 ## What is it?
 

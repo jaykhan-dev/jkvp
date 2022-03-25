@@ -6,6 +6,8 @@
 
 ### Conflict Alerts is an app to help the Ukrainians.
 
+The current war in Ukraine is troubling for the whole world because of Russia's aggression and how the international community is linked through trade and commerce.  If things get out of hand, this could have catastrophic consequences for the whole world. 
+
 *The premise is to allow locals to upload media to the site which will be marked on a map to help identify enemy location, weapons, and thus be able to determine strategies and tactics.*
 
 There is a project manager, Josh G, a backend team (Django) and a Frontend team (JavaScript). 
@@ -14,7 +16,7 @@ I used Adobe Illustrator to create the icons and logo, and XD to for the wirefra
 
 ![Conflict Alerts logo](/images/work/conflict-alerts/post.jpg)
 
-## Branding
+## Graphics and branding
 
 ### Concept 1
 The idea was to use the exclamation mark with a signal graphic, similar to what you might see on a radar. 
@@ -25,6 +27,11 @@ The idea was to use the exclamation mark with a signal graphic, similar to what 
 Combining a folded map with the exclamation mark in a triangle, which is universal for an alert.  The group decided to go with this one. 
 
 ![Conflict Alerts logo concept 2](/images/work/conflict-alerts/ca-02.jpg)
+
+### Icons
+Made with Adobe Illustrator.  Each icon represents an incident which could be an enemy sighting (red) or a friendly station (yellow/blue). 
+
+![Conflict Alerts incident icons](/images/work/conflict-alerts/ca-icons.png)
 
 ## Wireframes
 This is a wireframe for a new design. [See prototype](https://conflict-alerts.netlify.app)
