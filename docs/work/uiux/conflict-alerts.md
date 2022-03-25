@@ -31,7 +31,7 @@ Combining a folded map with the exclamation mark in a triangle, which is univers
 ### Icons
 Made with Adobe Illustrator.  Each icon represents an incident which could be an enemy sighting (red) or a friendly station (yellow/blue). 
 
-![Conflict Alerts incident icons](/images/work/conflict-alerts/ca-icons.png)
+![Conflict Alerts incident icons](/images/work/conflict-alerts/ca-icons-bigger.png)
 
 ## Wireframes
 This is a wireframe for a new design. [See prototype](https://conflict-alerts.netlify.app)
