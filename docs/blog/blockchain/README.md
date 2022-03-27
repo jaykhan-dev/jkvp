@@ -92,3 +92,18 @@ With every revolution, there is always some resistance and then finally acceptan
 16. Sports and Esports
 17. Supply Chain Management
 18. Syndicated Loans
+
+## NFT use cases
+
+- concert tickets: free or discounted
+- special access in a community
+- merch shipments: free, discounted
+- early access to new music
+- weekly show access, interviews
+- metaverse events and concerts
+- high quality music downloads
+- vinyl versions of albums
+- new music NFTs and future releases
+- licenses or copyrights to use
+- 1 on 1 support and advisory
+- a direct connection to the artist

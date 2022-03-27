@@ -30,16 +30,16 @@ color theory, layouts, I wanted to create interactive experiences. After searchi
 
 | Software | Description |
 | ----------- | ----------- |
-| Adobe CC | Photoshop, Illustrator, XD, After Effects, Premiere Pro |
-| Vue JS | JavaScript frontend framework |
-| Figma | For prototyping or just designing in general |
-| Algorand | Blockchain to sell and share my art |
-| Tailwind CSS | Building responsive user interfaces |
-| Docker | Containers  |
-| PostgreSQL | Database |
-| Wagtail | CMS based on Django and Python |
-| AWS | S3 buckets for media |
-| Heroku | Cloud hosting |
+| [Adobe CC](https://www.adobe.com/ca/creativecloud.html) | Photoshop, Illustrator, XD, After Effects, Premiere Pro |
+| [Vue JS](https://vuejs.org/) | JavaScript frontend framework |
+| [Figma](https://figma.com) | For prototyping or just designing in general |
+| [Algorand](https://www.algorand.com/) | 3rd generation blockchain for web3, NFTs and finance |
+| [Tailwind CSS](https://tailwindcss.com/) | Building responsive user interfaces |
+| [Docker](https://www.docker.com/) | Containers for cross platform development environment  |
+| [PostgreSQL](https://www.postgresql.org/) | Object Relational Database |
+| [Wagtail](https://wagtail.org/) | CMS based on Django and Python |
+| [AWS](https://aws.amazon.com/) | S3 buckets for media |
+| [Heroku](https://www.heroku.com/) | Cloud hosting |
 
 
 ## Skills

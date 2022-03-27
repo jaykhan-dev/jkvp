@@ -1,10 +1,12 @@
 # Pitbull Community
 
-### UI/UX design for the home page request by an Upwork client. Made with Webflow and Vue JS. Blockchain industry.
+### UI/UX design for the home page request by an Upwork client. Made with Webflow and Vue JS. 
 
 ## Project Details
 
-This project was fun because it was my first Blockchain, Webflow and Upwork project and the client was happy with the design.
+Pitbull Community is a blockchain project that is running on the Ethereum Blockchain.  It is a token that is made for dog lovers (especially Pitbulls), that can be bought on various exchanges in the Ethereum ecosystem.     
+
+My role was to completely redesign their existing homepage and make it more modern.  I was given free reign over the design and so I changed the color scheme, fonts, layout and UI.  It was important to the client that the UX *feel* smooth and easy to navigate.  This was achieved by adding more navigation, and a scrolling experience that revealed more about the company as the user progressed down the page.  
 
 ![Pitbull Hero section](/images/work/pitbull/pitbull-hero.png)
 

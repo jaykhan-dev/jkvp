@@ -1,8 +1,6 @@
 # Subotai
 
-## Aesthetics
-
-Contrast the way Genghis Khan conducted warfare with today.
+This is the story of a man who conquered more land, subjugated more people than any other general in history.  His epic real-life journey stretches the breadth of Asia, from the the Pacific Ocean to Central Europe.  An invincible soldier of the Great Khan, Subotai Bagatur leads his army on a path that would forever change the course of history, and give rise to nations that still exist today.  
 
 ## Outline
 
@@ -37,14 +35,29 @@ Subotai raids villages in Kievan Rus, prompting Mstislav the Bold to form an arm
 #### 5. Feigned Retreat 
 Subotai leaves behind a 1000 man force, led by Jebe, to hold back the Russian force.  Jebe dies, but the Russian army gets strung out over 9 days of chasing. 
 
-#### 6. Kalka River
+#### 6. The Devil's Horsemen
 Subotai forms battle positions on the Kalka river and proceeds to annihilate the entire Russian army sent to stop them.  He travels back to Mongolia where Genghis Khan dies and is buried in a secret location.  In the kurultai, 2 years later, Oegedei sends Batu Khan to conquer the west.  He sends Subotai, the greatest Mongol general, to guide him.
 
-### Part 2: The Devil's Horsemen
+### Part 2: The Golden Horde
+The Mongol Horde return to the west.  Batu Khan is the prince and leader in name but Subotai is the main strategist.  Part 2 explores this duo and the impending doom of the Europe.  
 
-### 7. The Golden Horde
-### 8. Volga Bulgaria
-### 9. Kiev
-### 10. Liegnitz
-### 11. Sajo River
+### 7. The Ultimate Sea (Volga Bulgaria)
+[Batu Khan](https://en.wikipedia.org/wiki/Batu_Khan) and Subotai make their way back to the edge of Europe and plan their campaign.  At the end they decide to reach the 'Ultimate Sea', aka the Atlantic. 
+
+### 8. Russia
+The Grand Duke
+[Friar Julian](https://en.wikipedia.org/wiki/Friar_Julian)
+[Yuri](https://en.wikipedia.org/wiki/Yuri_II_of_Vladimir)
+[Alexander Nevsky](https://en.wikipedia.org/wiki/Alexander_Nevsky)
+
+### 9. Poland
+Henry the Pious
+
+### 10. Hungary
+King Bela IV
+
+### 11. At the gates of Vienna
+Mopping up the last resistance in Hungary.  This chapter ends with the Mongols at the gates of Vienna. 
+
 ### 12. Princes of the Blood
+An arrow messenger arrives and delivers the news of Ogedei's death.  Subotai and the Princes of the Blood begin their long march back to Mongolia. 
