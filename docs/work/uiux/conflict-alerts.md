@@ -1,3 +1,7 @@
+---
+sidebar: auto
+---
+
 # Conflict Alerts
 
 ## Project details

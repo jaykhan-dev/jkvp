@@ -1,3 +1,7 @@
+---
+sidebar: auto
+---
+
 # NFTs
 
 These are the NFTs I've minted on Algogems (see below).  I am currently working on creating music NFTs with the available platforms on Algorand.  Projected release is summer 2022.

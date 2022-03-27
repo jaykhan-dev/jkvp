@@ -1,8 +1,12 @@
+---
+sidebar: auto
+---
+
 # Graphic Design
 
-[[toc]]
+## Projects
 
-## Rampart Corp
+### 1. Rampart Corp
 
 [Project Page](/work/graphics/rampart.md)
 
@@ -10,7 +14,7 @@ Canadian company that specializes in selling tactical gear and equipment to the 
 
 ![Rampart Canada Day](/images/work/rampart/rampart.jpg)
 
-## In Air Marketing
+### 2. In Air Marketing
 
 [Project Page](/work/in-air-marketing.md)
 
@@ -18,7 +22,7 @@ In Air Marketing is a Canadian company in the advertising industry.  Their scree
 
 ![](/images/work/in-air-marketing/bluebird-cafe.jpg)
 
-## European Cinema
+### 3. European Cinema
 
 [Project Page](/work/european-cinema.md)
 

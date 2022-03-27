@@ -1,6 +1,8 @@
-# Scribendi
+---
+sidebar: auto
+---
 
-[[toc]]
+# Scribendi
 
 ## About the company
 

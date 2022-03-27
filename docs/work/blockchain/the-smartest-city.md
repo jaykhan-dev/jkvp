@@ -1,3 +1,7 @@
+---
+sidebar: auto
+---
+
 # The Smartest City
 
 ## Prototype

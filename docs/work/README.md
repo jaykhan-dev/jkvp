@@ -1,3 +1,7 @@
+---
+sidebar: auto
+---
+
 # Work
 
 ## [UI/UX](/work/uiux/)

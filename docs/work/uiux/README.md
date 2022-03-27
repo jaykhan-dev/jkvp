@@ -1,6 +1,8 @@
-# UI/UX
+---
+sidebar: auto
+---
 
-[[toc]]
+# UI/UX
 
 ## Projects
 

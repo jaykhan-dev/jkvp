@@ -1,3 +1,7 @@
+---
+sidebar: auto
+---
+
 # ShayBeas Enterprises
 
 ## Project Details

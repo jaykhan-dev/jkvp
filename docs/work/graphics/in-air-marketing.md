@@ -1,3 +1,7 @@
+---
+sidebar: auto
+---
+
 # In Air Marketing
 
 ## Company details

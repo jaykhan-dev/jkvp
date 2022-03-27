@@ -1,6 +1,7 @@
 ---
 home: true
 heroImage: /images/jaykhan-picture.png
+sidebar: auto
 ---
 
 ## Summary

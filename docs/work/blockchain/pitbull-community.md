@@ -1,3 +1,7 @@
+---
+sidebar: auto
+---
+
 # Pitbull Community
 
 ### UI/UX design for the home page request by an Upwork client. Made with Webflow and Vue JS. 

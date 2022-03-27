@@ -5,7 +5,7 @@ const workSideBar = [
         text: 'UI/UX',
         link: '/work/uiux/README.md',
         children: [
-            { text: 'Conflict Alerts', link: '/work/uiux/conflict-alerts.md'},
+            { text: 'Conflict Alerts', link: '/work/uiux/conflict-alerts.md', },
             { text: 'Budgetmore', link: '/work/uiux/budgetmore.md'},
             { text: 'Scribendi', link: '/work/uiux/scribendi.md'},
             { text: 'ShayBeas Enterprises', link: '/work/uiux/shaybeas.md'},
@@ -106,6 +106,9 @@ module.exports = {
     themeConfig: {
       logo: '/images/jk-logo-black-border_1.svg',
       search: true,
+      displayAllHeaders: true,
+      searchPlaceholder: 'Search...',
+      
       // nav
       navbar: [
         { 
@@ -130,4 +133,19 @@ module.exports = {
           '/music/': musicSideBar,
       },
     },
+    plugins: [
+        [
+          '@vuepress/plugin-search',
+          {
+            locales: {
+              '/': {
+                placeholder: 'Search',
+              },
+              '/zh/': {
+                placeholder: '搜索',
+              },
+            },
+          },
+        ],
+      ],
   }

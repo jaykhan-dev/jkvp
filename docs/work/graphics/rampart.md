@@ -1,3 +1,7 @@
+---
+sidebar: auto
+---
+
 # Rampart
 
 ## About the company

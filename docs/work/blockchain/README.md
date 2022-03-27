@@ -1,6 +1,8 @@
-# Blockchain
+---
+sidebar: auto
+---
 
-[[toc]]
+# Blockchain
 
 ## Projects:
 
