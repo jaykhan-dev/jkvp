@@ -4,7 +4,7 @@ This is the story of a man who conquered more land, subjugated more people than 
 
 ## Outline
 
-### Part 1: Reconnaissance-in-Force
+## Part 1: Reconnaissance-in-Force
 
 #### 1. The Great Raid 
 *Subotai fails to capture the Shah who escapes to an island in the Caspian sea.  He makes a solitary journey of 1200 km to meet Genghis Khan at his Camp in what was the former Khawarizm Empire.  He tells him of the ‘narrow faced men with blue eyes’ and the world to the west.  And so begins the greatest Cavalry Raid in the history of warfare.*
@@ -38,7 +38,9 @@ Subotai leaves behind a 1000 man force, led by Jebe, to hold back the Russian fo
 #### 6. The Devil's Horsemen
 Subotai forms battle positions on the Kalka river and proceeds to annihilate the entire Russian army sent to stop them.  He travels back to Mongolia where Genghis Khan dies and is buried in a secret location.  In the kurultai, 2 years later, Oegedei sends Batu Khan to conquer the west.  He sends Subotai, the greatest Mongol general, to guide him.
 
-### Part 2: The Golden Horde
+[Battle of the Kalka river](https://en.wikipedia.org/wiki/Battle_of_the_Kalka_River)
+
+## Part 2: The Golden Horde
 The Mongol Horde return to the west.  Batu Khan is the prince and leader in name but Subotai is the main strategist.  Part 2 explores this duo and the impending doom of the Europe.  
 
 ### 7. The Ultimate Sea (Volga Bulgaria)
@@ -51,7 +53,10 @@ The Grand Duke
 [Alexander Nevsky](https://en.wikipedia.org/wiki/Alexander_Nevsky)
 
 ### 9. Poland
-Henry the Pious
+[Henry the Pious](https://en.wikipedia.org/wiki/Henry_II_the_Pious)
+[Battle of Legnica](https://en.wikipedia.org/wiki/Battle_of_Legnica)
+
+[The Teutonic Knights](https://en.wikipedia.org/wiki/Teutonic_Order)
 
 ### 10. Hungary
 King Bela IV

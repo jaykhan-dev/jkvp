@@ -8,7 +8,7 @@ sidebar: auto
 
 [See prototype](https://conflict-alerts.netlify.app)
 
-### Conflict Alerts is an app to help the Ukrainians.
+Conflict Alerts is an app to help the Ukrainians.
 
 The current war in Ukraine is troubling for the whole world because of Russia's aggression and how the international community is linked through trade and commerce.  If things get out of hand, this could have catastrophic consequences for the whole world. 
 

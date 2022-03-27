@@ -1,6 +1,9 @@
+---
+sidebar: auto
+--- 
 # Budgetmore
 
-### A budgeting application
+A budgeting application
 
 [See Landing page prototype](https://budgetmore.netlify.app)
 
