@@ -10,7 +10,7 @@ These are the NFTs I've minted on Algogems (see below).  I am currently working 
 
 [See music project](/music/ebs/)
 
-## Important information with regards to NFTs
+## Algogems
 
 [Algogems](https://algogems.io/)
 

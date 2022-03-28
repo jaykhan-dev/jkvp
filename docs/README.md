@@ -1,13 +1,20 @@
 ---
 home: true
 heroImage: /images/jaykhan-picture.png
-sidebar: auto
+actions:
+  - link: https://www.upwork.com/freelancers/~014489ba7a4c22b2bf?viewMode=1
+    text: UpWork
+    type: secondary
+  - link: https://contra.com/jkhan_design
+    text: Contra
+    type: secondary
+
 ---
 
 ## Summary
 
 ### Creative visual designer
-My expertise is in creating visual designs in the [**UI/UX**]() and [**graphic design**](/work/graphic-design) fields. I've worked as a freelancer and full-time employee in Agile environments. 
+My expertise is in creating visual designs in the [**UI/UX**](/work/uiux/) and [**graphic design**](/work/graphics) fields. I've worked as a freelancer and full-time employee in Agile environments. 
 I understand the importance of UX and testing when it comes to design. 
 
 ### Goals and aspirations

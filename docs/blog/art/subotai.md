@@ -23,6 +23,8 @@ This is the story of a man who conquered more land, subjugated more people than 
 - Subotai is summoned by Genghis Khan to Samarkand which is thousands of miles away. When Subotai meets with Genghis he mentions a reconnaissance mission around the Caspian Sea
 - Special forces appear on the outskirts of the city and each go their own separate ways, one to a tavern, another to a mosque, and so on but they all have one task:  Spread fear and terror about the Mongols.
 
+[Cumania](https://en.wikipedia.org/wiki/Cumania)
+
 #### 2. The Dogs of War 
 George Lasha III The Brilliant, is troubled by news of foreign horsemen who are ravaging the country side.  He takes up arms against the Barbarians but loses his throne.  
 
