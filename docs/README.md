@@ -1,14 +1,6 @@
 ---
 home: true
 heroImage: /images/jaykhan-picture.png
-actions:
-  - link: https://www.upwork.com/freelancers/~014489ba7a4c22b2bf?viewMode=1
-    text: UpWork
-    type: secondary
-  - link: https://contra.com/jkhan_design
-    text: Contra
-    type: secondary
-
 ---
 
 ## Summary

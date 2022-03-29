@@ -1,3 +1,7 @@
+---
+sidebar: auto
+---
+
 # [Algorand](https://algorand.com)
 
 ![Algorand home page](/images/blog/algorand/algo-hero.png)

@@ -61,7 +61,8 @@ The Grand Duke
 [The Teutonic Knights](https://en.wikipedia.org/wiki/Teutonic_Order)
 
 ### 10. Hungary
-King Bela IV
+[King Bela IV](https://en.wikipedia.org/wiki/B%C3%A9la_IV_of_Hungary)
+[Battle of Mohi](https://en.wikipedia.org/wiki/Battle_of_Mohi)
 
 ### 11. At the gates of Vienna
 Mopping up the last resistance in Hungary.  This chapter ends with the Mongols at the gates of Vienna. 

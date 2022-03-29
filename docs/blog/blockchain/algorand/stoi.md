@@ -1,3 +1,7 @@
+---
+sidebar: auto
+---
+
 # STOI
 
 ## Song That Owns Itself

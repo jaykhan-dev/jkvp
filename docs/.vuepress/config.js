@@ -47,8 +47,8 @@ const blogSideBar = [
                     //{ text: 'Create a Test Account', link: '/blog/blockchain/algorand/test-account.md'}
                 ]
             },
-            //{ text: 'The Ethereum blockchain', link: ''},
-            //{ text: 'Ethereum latest block', link: ''}
+            { text: 'Contra', link: '/blog/blockchain/contra.md' },
+            { text: 'Crypto UX', link: '/blog/blockchain/crypto-ux.md' }
         ]
     },
     {

@@ -1,3 +1,7 @@
+---
+sidebar: auto
+---
+
 # Vue JS
 
 ## JavaScript framework

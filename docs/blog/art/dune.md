@@ -1,3 +1,7 @@
+---
+sidebar: auto
+---
+
 # Dune
 
 [Dune:Part 1, 2021 trailer](https://www.youtube.com/watch?v=8g18jFHCLXk)

@@ -1,3 +1,7 @@
+---
+sidebar: auto
+---
+
 # Alan Watts
 
 [Alan Watts official site](https://alanwatts.org/)
