@@ -10,23 +10,11 @@ My expertise is in creating visual designs in the [**UI/UX**](/work/uiux/) and [
 I understand the importance of UX and testing when it comes to design. 
 
 ### Goals and aspirations
-- To create stunning responsive designs for web and mobile applications and pages.  
-- Adapt web3 for legacy applications.
-- Share and sell my art through blockchain technology.
+- To create stunning responsive designs for web and mobile applications and pages 
+- Web3 integration
+- Share and sell my art through blockchain technology
 
-## Bio
-
-This is where I was born.  Kashmir.
-
-![Kashmir home](/images/Kashmir1.jpg)
-
-Ever since I was a boy, I've been attracted to art.  Be that music, books, movies, or paintings, it is a constant source of inspiration.  I went to college and university
-unsure of how to translate this love into a career and so I went with a program called *Interactive Multimedia and Design* that can be described as "jack-of-all-trades".  The main benefit of this allowed me to explore different avenues and then eventually pick one.  
-
-After graduating, I found a job as a graphic designer and that solidified my commitment to creative expression.  After about 4-5 years of learning about typography, 
-color theory, layouts, I wanted to create interactive experiences. After searching for a while, I found a UI/UX job and was hooked and realized this is what I want to do as a creative visual designer because the skills can be applied to any industry.  Eventually I decided to relearn JavaScript and after trying Vue JS with Django, I found the missing piece of the puzzle.
-
-## Tech
+### Tech
 
 | Software | Description |
 | ----------- | ----------- |
@@ -43,16 +31,22 @@ color theory, layouts, I wanted to create interactive experiences. After searchi
 | [Heroku](https://www.heroku.com/) | Cloud hosting |
 
 
-## Skills
+### Skills
 
 - **Graphic Design** - 5 years
 - **HTML/CSS/JS** - 3 years
 - **UI/UX Design** - 3 years
 - **Video Editing** - 3 years
 - **Music Production** - 12 years
- 
 
+## Bio
 
+This is where I was born.  Kashmir.
 
+![Kashmir home](/images/Kashmir1.jpg)
 
+Ever since I was a boy, I've been attracted to art.  Be that music, books, movies, or paintings, it is a constant source of inspiration.  I went to college and university
+unsure of how to translate this love into a career and so I went with a program called *Interactive Multimedia and Design* that can be described as "jack-of-all-trades".  The main benefit of this allowed me to explore different avenues and then eventually pick one.  
 
+After graduating, I found a job as a graphic designer and that solidified my commitment to creative expression.  After about 4-5 years of learning about typography, 
+color theory, layouts, I wanted to create interactive experiences. After searching for a while, I found a UI/UX job and was hooked and realized this is what I want to do as a creative visual designer because the skills can be applied to any industry.  Eventually I decided to relearn JavaScript and after trying Vue JS with Django, I found the missing piece of the puzzle.
