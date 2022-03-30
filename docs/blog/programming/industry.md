@@ -3,17 +3,16 @@ sidebar: auto
 ---
 
 # The Software Industry
-The following 4 points are the result of months of research in how the software industry is evolving, by first looking at what is happening and then finding hidden patterns. 
+The following 4 points are the result of years of research in how the software industry is evolving, by first looking at what is happening and then finding patterns. 
 
 ## Modular
-No more monolithic systems that have a large point of attack and one issue can bring the whole system down.  The traditional approach has had its day but it doesn't serve the needs of our time now.
+The modular approach is a plug and play system.  It allows for better collaboration and more versatility and flexibility.  A developer or entrepeneur can pick and choose what techology they want to use rather than work around the monolithic culture of 'take it or leave it'. 
+
+The following list is a general view on what is involved with the decoupled approach:
 
 - Headless CMS
 - Microservices
-- Decoupled architecture
-- APIs
-
-The modular approach is a plug and play system.  It allows for better collaboration and more versatility and flexibility.  A developer or entrepeneur can pick and choose what techology they want to use rather than work around the monolithic culture of 'take it or leave it'.  
+- APIs 
 
 Large corporations such as Amazon, Netflix, and Uber have paved the way with their adoption of this approach and they are some of the biggest internet companies in the world.  Small businesses are the only ones where the decoupled architecture may be more expensive if they don't have development skills or can't afford a developer.  
 
