@@ -22,5 +22,13 @@ We are used to shady company policies and "Terms of Service" that are written in
 - Resources
 - Documentation
 
+## Color Scheme
+
+## Wireframe
+
+## User Flows
+
+## Personas
+
 ## 
 

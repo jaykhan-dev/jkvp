@@ -56,7 +56,7 @@ const blogSideBar = [
         link: '/blog/programming/',
         children: [
             { text: 'Vue JS', link: '/blog/programming/vuejs.md'},
-            //{ text: 'JAMStack', link: ''},
+            { text: 'E-Commerce', link: '/blog/programming/e-comm.md'},
             //{ text: 'Vue JS', link: ''}
         ]
     },
