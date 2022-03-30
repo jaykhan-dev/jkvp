@@ -16,7 +16,7 @@ Canadian company that specializes in selling tactical gear and equipment to the 
 
 ### 2. In Air Marketing
 
-[Project Page](/work/in-air-marketing.md)
+[Project Page](/work/graphics/in-air-marketing.md)
 
 In Air Marketing is a Canadian company in the advertising industry.  Their screens are installed in clinics around the country and the ads are played in rotation.
 
@@ -24,7 +24,7 @@ In Air Marketing is a Canadian company in the advertising industry.  Their scree
 
 ### 3. European Cinema
 
-[Project Page](/work/european-cinema.md)
+[Project Page](/work/graphics/european-cinema.md)
 
 European cinema is an annual festival that happens in Ottawa.  I worked as a graphic designer creating print and web material. 
 
