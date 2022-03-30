@@ -17,7 +17,7 @@ const workSideBar = [
         children: [
             { text: 'Pitbull Community', link: '/work/blockchain/pitbull-community.md'},
             { text: 'The Smartest City', link: '/work/blockchain/the-smartest-city.md'},
-            // { text: 'Melange Vue', link: ''},
+            // { text: 'Melange Labs', link: '/work/blockchain/melange-labs.md'},
             //{ text: 'Khan Coins', link: '/work/blockchain/khan-coins.md'},
             { text: 'NFTs', link: '/work/blockchain/NFTs.md'},
         ]
@@ -57,7 +57,7 @@ const blogSideBar = [
         children: [
             { text: 'Vue JS', link: '/blog/programming/vuejs.md'},
             { text: 'E-Commerce', link: '/blog/programming/e-comm.md'},
-            //{ text: 'Vue JS', link: ''}
+            { text: 'Industry', link: '/blog/programming/industry.md'}
         ]
     },
     {

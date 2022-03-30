@@ -1,6 +1,12 @@
 # Subotai
 
-This is the story of a man who conquered more land, subjugated more people than any other general in history.  His epic real-life journey stretches the breadth of Asia, from the the Pacific Ocean to Central Europe.  An invincible soldier of the Great Khan, Subotai Bagatur leads his army on a path that would forever change the course of history, and give rise to nations that still exist today.  
+This is the story of a man who conquered more land, subjugated more people than any other general in history.  His epic real-life journey stretches the breadth of Asia, from the the Pacific Ocean to Central Europe.  An invincible soldier of the Great Khan, Subotai Bagatur leads his army on a path that would forever change the course of history, and give rise to nations that still exist today. 
+
+## Sound Design
+**MelodyKode**
+
+A major theme in the book can be the **coded melodies** by the **yam riders**.
+[Morin Khuur](https://en.wikipedia.org/wiki/Morin_khuur)
 
 ## Outline
 

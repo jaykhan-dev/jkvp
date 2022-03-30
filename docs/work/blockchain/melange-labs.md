@@ -30,5 +30,6 @@ We are used to shady company policies and "Terms of Service" that are written in
 
 ## Personas
 
-## 
+## Accessibility
+
 
