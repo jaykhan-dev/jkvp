@@ -33,11 +33,11 @@ I understand the importance of UX and testing when it comes to design.
 
 ### Skills
 
-- **Graphic Design** - 5 years
-- **HTML/CSS/JS** - 3 years
-- **UI/UX Design** - 3 years
-- **Video Editing** - 3 years
-- **Music Production** - 12 years
+- **Graphic Design**
+- **HTML/CSS/JS** 
+- **UI/UX Design** 
+- **Video Editing** 
+- **Music Production** 
 
 ## Bio
 
