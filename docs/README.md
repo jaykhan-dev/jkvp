@@ -6,12 +6,14 @@ heroImage: /images/jaykhan-picture.png
 ## Summary
 
 ### Creative visual designer
-My expertise is in creating visual designs in the [**UI/UX**](/work/uiux/) and [**graphic design**](/work/graphics) fields. I've worked as a freelancer and full-time employee in Agile environments. 
+My expertise is creating visual designs in the [**UI/UX**](/work/uiux/) and [**graphic design**](/work/graphics) fields. I've worked as a freelancer and full-time employee in Agile environments. 
 I understand the importance of UX and testing when it comes to design. 
 
+**Above all I value simplicity in design.**
+
 ### Goals and aspirations
-- To create stunning responsive designs for web and mobile applications and pages 
-- Web3 integration
+- To create stunning responsive designs for web3 applications. 
+- Web3 integration and e-commerce
 - Share and sell my art through blockchain technology
 
 ### Tech

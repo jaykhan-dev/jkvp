@@ -17,7 +17,7 @@ const workSideBar = [
         children: [
             { text: 'Pitbull Community', link: '/work/blockchain/pitbull-community.md'},
             { text: 'The Smartest City', link: '/work/blockchain/the-smartest-city.md'},
-            // { text: 'Melange Labs', link: '/work/blockchain/melange-labs.md'},
+            { text: 'Melange Labs', link: '/work/blockchain/melange-labs.md'},
             //{ text: 'Khan Coins', link: '/work/blockchain/khan-coins.md'},
             { text: 'NFTs', link: '/work/blockchain/NFTs.md'},
         ]

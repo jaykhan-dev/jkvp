@@ -15,12 +15,20 @@ A blockchain project running on the Ethereum blockchain.
 ![Pitbull Community Hero section](/images/work/pitbull/pitbull-hero.png)
 
 ### 2. The Smartest City
+A new blockchain concept for a city-wide metaverse.
 
 [See project page](/work/blockchain/the-smartest-city.md)
 
 ![The Smartest City home page](/images/work/the-smartest-city/the-smartest-city.png)
 
-### 3. NFTs
+### 3. Melange Labs
+Creative Web3 Agency
+
+[See project page](/work/blockchain/melange-labs.md)
+
+![Melange Labs image](/images/work/melangelabs/mlabs-ecosystem.png)
+
+### 4. NFTs
 The Algorand blockchain provides an easy way to create NFTs.  I've started a small collection of images of my motherland, Kashmir.  I am currently working on creating music NFTs that I hope to launch this year.
 
 [See project page](/work/blockchain/NFTs.md)
