@@ -5,6 +5,8 @@ sidebar: auto
 # Melange Labs
 A creative web3 agency
 
+[See Prototype](https://melangelabs.netlify.app)
+
 ![Melange Labs Vue Ecosystem](/images/work/melangelabs/mlabs-ecosystem.png)
 
 ## Project Details
@@ -31,7 +33,7 @@ CMS Support (this is a partial list):
 ## Algorand
 ### Stablecoins
 
-[USDC](https://www.circle.com/en/usdc) is a popular stablecoin that banks, and monetary systems like Visa are either considering or have adopted.  Though mostly used on the Ethereum blockchain, USDC is also available on Algorand this is preferable due to its low fees and fast block finality (speed at which a transaction is finalized). 
+[USDC](https://www.circle.com/en/usdc) is a popular stablecoin that banks, and monetary systems like Visa are either considering or have adopted.  Though mostly used on the Ethereum blockchain, USDC is also available on Algorand which is preferable due to its low fees and fast block finality (speed at which a transaction is finalized). 
 
 There are also Canadian stablecoins, but the utility is wanting at the moment.  
 

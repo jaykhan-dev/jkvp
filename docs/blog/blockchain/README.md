@@ -45,7 +45,7 @@ Proof of Work is the main consensus protocol used by Bitcoin and Ethereum to add
 >A proof of work is a piece of data which is difficult (costly, time-consuming) to produce but easy for others to verify and which satisfies certain requirements. Producing a proof of work can be a random process with low probability so that a lot of trial and error is required on average before a valid proof of work is generated. Bitcoin uses the Hashcash proof of work system.
 
 ### Problems with Proof of Work
-The most significant problem is the [energy use](https://www.forbes.com/advisor/investing/bitcoins-energy-usage-explained/).  Though still smaller compared to other industries which use a lot of energy like Oil, it is starting to worry investors about the future of Bitcoin.  Governments like [China](https://www.bbc.com/news/technology-58678907) have banned Bitcoin outright, while others in the [EU](https://news.bitcoin.com/eu-parliament-committee-votes-against-proof-of-work-ban-supports-alternative-amendment-on-crypto-assets/) considered it, but eventually decided not to. 
+The most significant problem is the [energy use](https://www.forbes.com/advisor/investing/bitcoins-energy-usage-explained/).  Though still smaller compared to other industries which use a lot of energy like Oil, it is starting to worry investors about the future of Bitcoin.  Governments in [China](https://www.bbc.com/news/technology-58678907) have banned Bitcoin outright, while others in the [EU](https://news.bitcoin.com/eu-parliament-committee-votes-against-proof-of-work-ban-supports-alternative-amendment-on-crypto-assets/) considered it, but eventually decided not to. 
 
 ## Proof of Stake
 

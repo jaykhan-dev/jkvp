@@ -43,12 +43,15 @@ const blogSideBar = [
                 link: '/blog/blockchain/algorand/',
                 children: [
                     //{ text: 'PureStake', link: '/blog/blockchain/algorand/purestake.md' },
-                    { text: 'STOI', link: '/blog/blockchain/algorand/stoi.md'},
-                    //{ text: 'Create a Test Account', link: '/blog/blockchain/algorand/test-account.md'}
+                    { text: 'STOI', link: '/blog/blockchain/algorand/stoi.md' },
+                    //{ text: 'Governor', link: '/blog/blockchain/algorand/governor.md' },
                 ]
             },
             { text: 'Contra', link: '/blog/blockchain/contra.md' },
-            { text: 'Crypto UX', link: '/blog/blockchain/crypto-ux.md' }
+            { text: 'Crypto UX', link: '/blog/blockchain/crypto-ux.md' },
+            { text: 'Crypto Jobs', link: '/blog/blockchain/crypto-jobs.md' },
+            //{ text: 'Stablecoins', link: '/blog/blockchain/stablecoins.md' },
+            //{ text: 'DAO', link: '/blog/blockchain/DAO.md' }
         ]
     },
     {

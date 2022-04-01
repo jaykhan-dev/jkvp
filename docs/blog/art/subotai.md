@@ -1,6 +1,28 @@
 # Subotai
 
-This is the story of a man who conquered more land, subjugated more people than any other general in history.  His epic real-life journey stretches the breadth of Asia, from the the Pacific Ocean to Central Europe.  An invincible soldier of the Great Khan, Subotai Bagatur leads his army on a path that would forever change the course of history, and give rise to nations that still exist today. 
+This is the story of a man who conquered more land, subjugated more people than any other general in history.  His epic real-life journey stretches the breadth of Asia, from the the Pacific Ocean to Central Europe.  An invincible soldier of the Great Khan, Subotai Bagatur leads his army on a path that would forever change the course of history, and give rise to nations that still exist today.
+
+## Character List
+
+| Character | Role | Description |
+| ----------- | ----------- | ----------- |
+| [Subotai Ba'atur]() | Title character | Mongol General who is the main strategist |
+| [Jebe]() | Elite Mongol General | Mentor to Subotai |
+| [Genghis Khan]() | The father of Mongolia | The greatest military mind in history |
+| [Borte]() | Maternal lead | Genghis Khan's first wife |
+| [Qiu Chuji]() | Taoist Monk | Meets with Genghis in Central Asia |
+| [George Lasha]() | King of Georgia | Defeated by Subotai during the Great Raid |
+| [Rusudan]() | George's Sister | Takes over as ruler in Georgia |
+| [The Shah]() | Khwarizm Shah | Provokes Genghis Khan which leads to the destruction of his kingdom |
+| [Koten Khan]() | Cuman Leader | Joins the Russians |
+| [Mstislav the Bold]() | Russian Leader | Defeated by Subotai |
+
+## Research
+[UNESCO Venice](https://en.unesco.org/silkroad/content/venice)
+
+>There was a treaty signed around 1221. In return for exclusive trading rights around the Black Sea, Venice would make payments to the Mongol empire. It has been suggested that the Mongols gained intelligence about what was going on in Europe, and most usefully about the chaotic political situation in Russia, but that sounds like an incidental side-effect of ongoing contact between Venice and the Mongols, not specific terms of the treaty. Either way, the Mongols held up their end, maintaining good trading relations with the Venetians while sacking ports used by Venice’s rivals.
+
+
 
 ## Sound Design
 **MelodyKode**
@@ -75,3 +97,10 @@ Mopping up the last resistance in Hungary.  This chapter ends with the Mongols a
 
 ### 12. Princes of the Blood
 An arrow messenger arrives and delivers the news of Ogedei's death.  Subotai and the Princes of the Blood begin their long march back to Mongolia. 
+
+
+## Lines
+
+> Every genius knows that they are a genius, before the world does. 
+
+> Connect the dots.  Opportunities exist in what is hidden from plain sight. 
