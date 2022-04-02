@@ -48,10 +48,11 @@ const blogSideBar = [
                 ]
             },
             { text: 'Contra', link: '/blog/blockchain/contra.md' },
-            { text: 'Crypto UX', link: '/blog/blockchain/crypto-ux.md' },
+            //{ text: 'Crypto UX', link: '/blog/blockchain/crypto-ux.md' },
             { text: 'Crypto Jobs', link: '/blog/blockchain/crypto-jobs.md' },
-            //{ text: 'Stablecoins', link: '/blog/blockchain/stablecoins.md' },
-            //{ text: 'DAO', link: '/blog/blockchain/DAO.md' }
+            { text: 'Stablecoins', link: '/blog/blockchain/stablecoins.md' },
+            { text: 'DAO', link: '/blog/blockchain/DAO.md' },
+            //{ text: 'defi', link: '/blog/blockchain/defi.md' }
         ]
     },
     {

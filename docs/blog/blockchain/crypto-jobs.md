@@ -28,3 +28,24 @@ The following two are my areas of interest and where I have and will be applying
 | --- | --- | --- | --- |
 | Frontend Developer | $80K | $50K | $500K |
 | Design | $80K | $56K | $200K |
+
+## Strategies and Tactics
+- Get job alerts directly into your mailbox so you don't have waste time finding them
+- Apply quickly
+- Have multiple templates of your resume
+- Cover letters are important but spending too much time on one is a waste of time
+
+### Forging Alliances
+
+It is important to build a network because it is crucial for success.  Real people.  Technology is just a means to an end.  
+
+- Linkedin messages
+- Discord Servers for projects
+- Reddit crypto users
+
+## Failures
+
+- Traditional jobs are slow to respond and I've been ghosted/rejected even when I thought the interview went well. 
+- Random recuiters reaching out who sound fishy and ask for too much information like the last 4 digits of a SIN card. 
+- International interviews didn't work out due to time differences. 
+
