@@ -8,7 +8,7 @@ sidebar: auto
 
 ### 1. Pitbull Community
 
-[See project page]()
+[See project page](/work/blockchain/pitbull-community.md)
 
 A blockchain project running on the Ethereum blockchain. 
 
