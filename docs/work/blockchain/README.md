@@ -28,8 +28,7 @@ Creative Web3 Agency
 
 ![Melange Labs image](/images/work/melangelabs/mlabs-ecosystem.png)
 
-### 4. NFTs
-The Algorand blockchain provides an easy way to create NFTs.  I've started a small collection of images of my motherland, Kashmir.  I am currently working on creating music NFTs that I hope to launch this year.
+### 4. Endeavr
+Music project on the Algorand Blockchain
 
-[See project page](/work/blockchain/NFTs.md)
-
+[See project page](/work/blockchain/endeavr.md)

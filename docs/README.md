@@ -6,15 +6,16 @@ heroImage: /images/jaykhan-picture.png
 ## Summary
 
 ### Creative visual designer
-My expertise is creating visual designs in the [**UI/UX**](/work/uiux/) and [**graphic design**](/work/graphics) fields. I've worked as a freelancer and full-time employee in Agile environments. 
-I understand the importance of UX and testing when it comes to design. 
+I am a versatile designer in the [**UI/UX**](/work/uiux/) and [**graphic design**](/work/graphics) fields. My approach is based on empathy and storytelling. 
 
-**Above all I value simplicity in design.**
+Above all I value **simplicity** in design.
 
 ### Goals and aspirations
-- To create stunning responsive designs for web3 applications. 
-- Web3 integration and e-commerce
-- Share and sell my art through blockchain technology
+- Use my design skills to make peoples lives easier
+- Help businesses adapt to Web3 
+- Use Blockchain technology to help artists
+- Work as a digital nomad and travel the world
+
 
 ### Tech
 
@@ -31,6 +32,7 @@ I understand the importance of UX and testing when it comes to design.
 | [WordPress](https://wordpress.org/) | Worlds most popular CMS |
 | [AWS](https://aws.amazon.com/) | S3 buckets for media |
 | [Heroku](https://www.heroku.com/) | Cloud hosting |
+| [Git](https://git-scm.com/) | Version control system |
 
 
 ### Skills
@@ -43,7 +45,7 @@ I understand the importance of UX and testing when it comes to design.
 
 ## Bio
 
-This is where I was born.  Kashmir.
+This is where I was born, Kashmir.  It is in the western region of the Himalayan mountains.
 
 ![Kashmir home](/images/Kashmir1.jpg)
 

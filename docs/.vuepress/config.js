@@ -18,7 +18,7 @@ const workSideBar = [
             { text: 'Pitbull Community', link: '/work/blockchain/pitbull-community.md'},
             { text: 'The Smartest City', link: '/work/blockchain/the-smartest-city.md'},
             { text: 'Melange Labs', link: '/work/blockchain/melange-labs.md'},
-            //{ text: 'Khan Coins', link: '/work/blockchain/khan-coins.md'},
+            { text: 'Endeavr', link: '/work/blockchain/endeavr.md'},
             { text: 'NFTs', link: '/work/blockchain/NFTs.md'},
         ]
     },
@@ -103,7 +103,7 @@ module.exports = {
     // site config
     lang: 'en-US',
     title: 'J. Khan',
-    description: 'Portfolio',
+    description: 'Web3 Portfolio',   
   
     // theme and its config
     theme: '@vuepress/theme-default',

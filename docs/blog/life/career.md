@@ -39,3 +39,42 @@ Since I left Montreal, I spent 2 months learning **Django and Docker**.  This ha
 - inner strength is found by rediscovering the source of power that comes from my last name
 - sometimes getting lost can be the best way of finding new information that can change everything
 - A rigid mind is detrimental to prosperity.  Be nimble and work efficiently
+
+## Innosphere
+
+- Moved to AWS from Microsoft
+- Use Spark Hire for virtual interviews
+- Remote first
+- full IT service company, development, recruitment, infrastructure
+
+### General Questions
+
+1. Why am I a good fit?
+- I am primarily a designer with a good understanding of aesthetics.  
+- After spending countless hours job hunting, I have used many different platforms, made accounts with many companies just to submit an application.  I see how the system is broken.  
+- After every rejection or ghosting, I have tried to learn from my mistake or how I can improve my communication
+- Good UX understanding
+- Learning development skills for the modern web such as HTML/CSS/JavaScript
+- Work well remotely
+- learn quickly
+-  
+
+2. How can I help your organization?
+- 
+
+3. What are the negative aspects of recruitment
+- Companies are relying on automation software to the point where they might miss out on talent
+- ghosting
+- slow
+- the tests don't reflect the job
+- 
+
+4. Why Innosphere?
+- remote first culture
+- open minded and flexible with employees - learning and development program
+- more relaxed atmosphere when it comes to recruitment
+- willingness to change software tech to better suit the changing industry
+- 
+
+
+
