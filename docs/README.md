@@ -4,11 +4,9 @@ heroImage: /images/jaykhan-picture.png
 ---
 
 ## Summary
+A creative visual designer with experience in [**UI/UX**](/work/uiux/), [**graphic design**](/work/graphics) and [**blockchain**](/work/blockchain). 
 
-### Creative visual designer
-I am a versatile designer in the [**UI/UX**](/work/uiux/) and [**graphic design**](/work/graphics) fields. My approach is based on empathy and storytelling. 
-
-Above all I value **simplicity** in design.
+My approach is based on empathy and storytelling.  Above all I value **simplicity** in design.
 
 ### Goals and aspirations
 - Use my design skills to make peoples lives easier
