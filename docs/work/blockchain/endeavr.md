@@ -6,6 +6,8 @@ sidebar: auto
 
 [See live prototype](https://music-endeavr.netlify.app/)
 
+![Endeavr Hero](/images/work/endeavr/endeavr-hero-100.jpg)
+
 ## Project details
 Endeavr is a music project on the Algorand blockchain that eliminates the need for middlemen.  The music industry is constantly evolving.  Any new technology appears threatening but eventually it becomes the norm.  A great example in recent times is the creation of the MP3 which makes creating exact digital copies easy, cheap and fast.  Companies like Napster got a lot of heat for sharing music without having to pay for it that it got sued and eventually had to change its business model.  
 

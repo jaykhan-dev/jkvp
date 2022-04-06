@@ -1,5 +1,0 @@
-# Meditations
-
-## Marcus Aurelius
-
-## 

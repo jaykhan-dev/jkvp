@@ -52,7 +52,7 @@ const blogSideBar = [
             { text: 'Crypto Jobs', link: '/blog/blockchain/crypto-jobs.md' },
             { text: 'Stablecoins', link: '/blog/blockchain/stablecoins.md' },
             { text: 'DAO', link: '/blog/blockchain/DAO.md' },
-            //{ text: 'defi', link: '/blog/blockchain/defi.md' }
+            //{ text: 'DeFi', link: '/blog/blockchain/defi.md' }
         ]
     },
     {
@@ -70,13 +70,14 @@ const blogSideBar = [
         children: [
             { text: 'Dune', link: '/blog/art/dune.md' },
             { text: 'Peaky Blinders', link: '/blog/art/peaky-blinders.md' },
+            //{ text: 'The Art of War', link: '/blog/art/art-of-war.md'},
         ]
     },
     {
         text: 'Life',
         //link: '/blog/life/',
         children: [
-            //{ text: 'Meditations', link: '/blog/stoi.md'},
+            { text: 'Stoicism', link: '/blog/life/stoicism.md'},            
             { text: 'Alan Watts', link: '/blog/life/alan-watts.md'},
         ]
     },
