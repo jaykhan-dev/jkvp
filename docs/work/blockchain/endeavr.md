@@ -56,3 +56,20 @@ Quality Assurance for music is useful if you need feedback before releasing a so
 
 The NFT creator can specify for how long the voting lasts and maybe even a minimum number of votes.  This would all be handled with smart contracts written in either PyTEAL or Reach.
 
+## Wireframes
+
+### Songbook wireframe
+The following wireframe is the Songbook app that is the very heart of the entire blockchain project.  This is where users will create a Songbook of their tracks and collaborate with other writers producers and setup a QA group and tasks that need to be finished in order to complete the project.  Each track can be minted as an NFT through the already existing platforms like [STOI](/blog/blockchain/algorand/STOI.md). 
+
+Once published, it will be displayed on the main webpage for investors to browse and dip their toes in the world of blockchain music. The interesting thing about this is that you don't even need to be a musician to use this.  If you have an analytical mind or you are a patron of the arts and want to help artists, this would be a good way to start a new business that can generate passive income.  
+
+This would work for:
+
+- Writers
+- Producers
+- Managers
+- Entrepeneurs
+
+
+![Endeavr Songbook wireframe](/images/work/endeavr/songbook-wireframe.png)
+

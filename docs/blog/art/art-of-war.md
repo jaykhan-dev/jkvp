@@ -21,7 +21,7 @@ His book is a powerful.  It will help you if you heed its advice and this has be
 ### Genghis Khan
 The greatest military mind in history.  The Mongol Empire was the largest contiguous empire that ever existed and it is a facinating story of how an illiterate nomad united all the warring steppe tribes and virtually dominated most of Eurasia.  Genghis Khan certainly has a fearsome reputation, one that he cultivated in order to get his enemies to surrender rather than fight.  He was ruthless, cunning, and revolutionary when it came to warfare.  
 
-What facinates me is how an army of roughly 100,000 cavalry destroyed every army that it faced.  The Mongols suffered very little defeat under Genghis Khan because of his genius in dividing his army by decimals and scattering any acquired enemy soldiers amongst the different groups so that they could not unite against him. 
+What facinates me is how an army of roughly 100,000 cavalry destroyed almost every army that it faced.  The Mongols suffered very little defeat under Genghis Khan.  He used a radical new system of dividing his army by decimals and scattering any acquired enemy soldiers amongst the different groups so that they could not unite against him. 
 
 By controlling the Silk Road, Genghis Khan had access to unlimited wealth which he did not hoard.  If he was so successful it's most likely because of his novel practice of granting religious freedom and promoting talented individuals based on merit.  
 
