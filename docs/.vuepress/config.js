@@ -47,6 +47,14 @@ const blogSideBar = [
                     //{ text: 'Governor', link: '/blog/blockchain/algorand/governor.md' },
                 ]
             },
+            {
+                text: 'Ethereum',
+                link: '/blog/blockchain/ethereum',
+                children: [
+                    { text: 'The Merge', link: '/blog/blockchain/ethereum/eth-merge.md'},
+                    { text: 'Infura', link: '/blog/blockchain/ethereum/infura.md'},
+                ]
+            },
             { text: 'Contra', link: '/blog/blockchain/contra.md' },
             //{ text: 'Crypto UX', link: '/blog/blockchain/crypto-ux.md' },
             { text: 'Crypto Jobs', link: '/blog/blockchain/crypto-jobs.md' },
@@ -59,7 +67,14 @@ const blogSideBar = [
         text: 'Programming',
         link: '/blog/programming/',
         children: [
-            { text: 'Vue JS', link: '/blog/programming/vuejs.md'},
+            { 
+                text: 'Vue JS', 
+                link: '/blog/programming/vue/README.md',
+                children: [
+                    { text: 'Creating Tabs', link: '/blog/programming/vue/creating-tabs.md'},
+                    { text: 'Pinia', link: '/blog/programming/vue/pinia-algo.md'},
+                ]
+            },
             { text: 'E-Commerce', link: '/blog/programming/e-comm.md'},
             { text: 'Industry', link: '/blog/programming/industry.md'}
         ]
