@@ -4,16 +4,14 @@ heroImage: /images/jaykhan-picture.png
 ---
 
 ## Summary
-A creative visual designer with experience in [**UI/UX**](/work/uiux/), [**graphic design**](/work/graphics) and [**blockchain**](/work/blockchain). 
+I am a creative visual designer with experience in [**UI/UX**](/work/uiux/), [**graphic design**](/work/graphics) and [**blockchain**](/work/blockchain). 
 
 My approach is based on empathy and storytelling.  Above all I value **simplicity** in design.
 
 ### Goals and aspirations
-- Use my design skills to make peoples lives easier
 - Help businesses adapt to Web3 
-- Use Blockchain technology to help artists
+- Use Blockchain technology to share and sell art for myself and others
 - Work as a digital nomad and travel the world
-
 
 ### Tech
 

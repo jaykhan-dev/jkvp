@@ -51,7 +51,7 @@ const blogSideBar = [
                 text: 'Ethereum',
                 link: '/blog/blockchain/ethereum',
                 children: [
-                    { text: 'The Merge', link: '/blog/blockchain/ethereum/eth-merge.md'},
+                    //{ text: 'The Merge', link: '/blog/blockchain/ethereum/eth-merge.md'},
                     { text: 'Infura', link: '/blog/blockchain/ethereum/infura.md'},
                 ]
             },
