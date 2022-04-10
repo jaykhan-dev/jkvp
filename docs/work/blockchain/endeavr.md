@@ -27,9 +27,10 @@ This is a logo that I designed with Adobe Illustrator.  The inspiration is a pir
 
 
 ### Tech Stack
-- The frontend is made with **Vue JS** because it is versatile and the ecosystem has all the tools and libraries required for building robust dapps.  
-- The **Algorand blockchain** is an easy to use platform that has made creating and managing digital assets much easier with minimal costs.  
-- Any CMS would work for creating an artist page with a list of tracks and NFTs.  I prefer **Django** for the backend because it is powerful and has been around for a while making it a solid choice.
+- Vue JS - Frontend
+- WordPress - Backend and CMS
+- Amazon Lightsail
+- Algorand - Blockchain 
 
 ### Ecosystem
 The following projects that are part of the Algorand ecosystem and which eliminates the need to create a new system from scratch.  The best strategy is to get to the market with new music faster and more efficiently, rather than spend years trying to build the perfect platform.  
