@@ -92,8 +92,9 @@ const blogSideBar = [
         text: 'Life',
         //link: '/blog/life/',
         children: [
+            { text: 'Bio', link: '/blog/life/bio.md' },
             { text: 'Stoicism', link: '/blog/life/stoicism.md'},            
-            { text: 'Alan Watts', link: '/blog/life/alan-watts.md'},
+            { text: 'Alan Watts', link: '/blog/life/alan-watts.md'},            
         ]
     },
 ]

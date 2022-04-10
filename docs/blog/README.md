@@ -12,4 +12,4 @@ More specifically related to Python and JavaScript as those are the only two lan
 A general blog about the art world.  Topics include music, cinema, digital art etc.
 
 ## Life
-Philosophy of living based on the works of past visionaries and philosphers.  More educational and general in nature. 
+Blogs about philosophy, travel, biographies, and just living in general.
