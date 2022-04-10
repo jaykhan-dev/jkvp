@@ -14,9 +14,9 @@ actions:
 ---
 
 ## Summary
-I am a creative visual designer with experience in [**UI/UX**](/work/uiux/), [**graphic design**](/work/graphics) and [**blockchain**](/work/blockchain). 
+I am a versatile creative visual designer with experience creating design material for the web, social media, print and video.  
 
-My approach is based on empathy and storytelling.  Above all I value **simplicity** in design.
+My approach is based on **empathy** and **storytelling**.  Above all I value **simplicity** in design.
 
 ### Goals and aspirations
 - Help businesses adapt to Web3 
