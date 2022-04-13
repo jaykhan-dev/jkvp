@@ -32,7 +32,8 @@ My approach is based on **empathy** and **storytelling**.  Above all I value **s
 | [Adobe CC](https://www.adobe.com/ca/creativecloud.html) | Photoshop, Illustrator, XD, After Effects, Premiere Pro | Design |
 | [Vue JS](https://vuejs.org/) | JavaScript frontend framework | Web |
 | [Figma](https://figma.com) | For prototyping or just designing in general | Design |
-| [Algorand](https://www.algorand.com/) | web3, NFTs and finance | Blockchain |
+| [Algorand](https://www.algorand.com/) | Web3, NFTs, DeFi | Blockchain |
+| [Ethereum](https://ethereum.org/en//) | Web3, NFTs, DeFi | Blockchain |
 | [Tailwind CSS](https://tailwindcss.com/) | Building responsive user interfaces | Design |
 | [Docker](https://www.docker.com/) | Containers for cross platform development environment | Web |
 | [PostgreSQL](https://www.postgresql.org/) | Object Relational Database | Web |
