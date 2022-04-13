@@ -28,7 +28,7 @@ This is a logo that I designed with Adobe Illustrator.  The inspiration is a pir
 
 ### Tech Stack
 - Vue JS - Frontend
-- WordPress - Backend and CMS
+- Wagtail - Backend and CMS
 - Amazon Lightsail
 - Algorand - Blockchain 
 

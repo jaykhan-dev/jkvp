@@ -18,6 +18,8 @@ I am a versatile creative visual designer with experience creating design materi
 
 My approach is based on **empathy** and **storytelling**.  Above all I value **simplicity** in design.
 
+[See Resume](/work/resume.md)
+
 ### Goals and aspirations
 - Help businesses adapt to Web3 
 - Use Blockchain technology to share and sell art for myself and others

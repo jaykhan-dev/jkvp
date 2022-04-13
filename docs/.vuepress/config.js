@@ -1,6 +1,7 @@
   // work side bar
 const workSideBar = [
     { text: 'Work Overview', link: '/work/'},
+    { text: 'Resume', link: '/work/resume.md' },
     {
         text: 'UI/UX',
         link: '/work/uiux/README.md',
@@ -145,7 +146,8 @@ module.exports = {
             children: [
                 { text: 'UI/UX', link: '/work/uiux/README.md'},
                 { text: 'Blockchain', link: '/work/blockchain/README.md'},
-                { text: 'Graphic Design', link: '/work/graphics/README.md'}
+                { text: 'Graphic Design', link: '/work/graphics/README.md'},
+                { text: 'Resume', link: '/work/resume.md' }
             ]
         },
         { text: 'Blog', link: '/blog/'},
