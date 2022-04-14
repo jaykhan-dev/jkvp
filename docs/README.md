@@ -21,7 +21,7 @@ My approach is based on **empathy** and **storytelling**.  Above all I value **s
 [See Resume](/work/resume.md)
 
 ### Goals and aspirations
-- Help businesses adapt to Web3 
+- Design and built web3 applications
 - Use Blockchain technology to share and sell art for myself and others
 - Work as a digital nomad and travel the world
 
@@ -30,7 +30,7 @@ My approach is based on **empathy** and **storytelling**.  Above all I value **s
 | Software | Description | Area of expertise |
 | ----------- | ----------- | ----------- |
 | [Adobe CC](https://www.adobe.com/ca/creativecloud.html) | Photoshop, Illustrator, XD, After Effects, Premiere Pro | Design |
-| [Vue JS](https://vuejs.org/) | JavaScript frontend framework | Web |
+| [Vue JS](https://vuejs.org/) | VuePress, Nuxt, Vue Storefront | Web |
 | [Figma](https://figma.com) | For prototyping or just designing in general | Design |
 | [Algorand](https://www.algorand.com/) | Web3, NFTs, DeFi | Blockchain |
 | [Ethereum](https://ethereum.org/en//) | Web3, NFTs, DeFi | Blockchain |
