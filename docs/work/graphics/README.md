@@ -6,13 +6,13 @@ sidebar: auto
 
 ## Projects
 
-### 1. Rampart Corp
+### 1. European Cinema
 
-[Project Page](/work/graphics/rampart.md)
+[Project Page](/work/graphics/european-cinema.md)
 
-Canadian company that specializes in selling tactical gear and equipment to the Canadian Army, law enforcement and  other public service agents. 
+European cinema is an annual festival that happens in Ottawa.  I worked as a graphic designer creating print and web material. 
 
-![Rampart Canada Day](/images/work/rampart/rampart.jpg)
+![European Cinema snip](/images/work/european-cinema/euro-cinema.png)
 
 ### 2. In Air Marketing
 
@@ -22,10 +22,13 @@ In Air Marketing is a Canadian company in the advertising industry.  Their scree
 
 ![](/images/work/in-air-marketing/bluebird-cafe.jpg)
 
-### 3. European Cinema
+### 3. Rampart Corp
 
-[Project Page](/work/graphics/european-cinema.md)
+[Project Page](/work/graphics/rampart.md)
 
-European cinema is an annual festival that happens in Ottawa.  I worked as a graphic designer creating print and web material. 
+Canadian company that specializes in selling tactical gear and equipment to the Canadian Army, law enforcement and  other public service agents. 
 
-![European Cinema snip](/images/work/european-cinema/euro-cinema.png)
+![Rampart Canada Day](/images/work/rampart/rampart.jpg)
+
+
+
