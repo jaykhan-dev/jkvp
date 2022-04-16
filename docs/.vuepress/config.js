@@ -27,9 +27,9 @@ const workSideBar = [
         text: 'Graphic Design',
         link: '/work/graphics/README.md',
         children: [
-            { text: 'Rampart Corp', link: '/work/graphics/rampart.md'},
-            { text: 'In Air Marketing', link: '/work/graphics/in-air-marketing.md'},
-            { text: 'European Cinema', link: '/work/graphics/european-cinema.md'},
+            { text: 'Social Media', link: '/work/graphics/social-media.md'},
+            { text: 'Marketing material', link: '/work/graphics/marketing-material.md'},
+            { text: 'Posters', link: '/work/graphics/posters.md'},
         ]
     },    
 ]

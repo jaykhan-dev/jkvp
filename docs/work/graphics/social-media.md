@@ -47,16 +47,7 @@ This piece is for the American audience
 
 ![Rampart social media](/images/work/rampart/rampart-4july.png)
 
-### Ammo
-![Rampart social media](/images/work/rampart/rampart-eco.png)
-
 ### Fathers day sale of various items
 ![Rampart social media](/images/work/rampart/rampart-fathers-day.png)
-
-### A promotion on a popular brand
-![Rampart social media](/images/work/rampart/rampart-spiritus.png)
-
-### Promotion for another popular brand
-![Rampart social media](/images/work/rampart/rampart-troy.png)
 
 

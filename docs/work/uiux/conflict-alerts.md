@@ -32,7 +32,7 @@ The idea was to use the exclamation mark with a signal graphic, similar to what 
 ### Concept 2
 Combining a folded map with the exclamation mark in a triangle, which is universal for an alert.  The group decided to go with this one. 
 
-![Conflict Alerts logo concept 2](/images/work/conflict-alerts/ca-02.jpg)
+![Conflict Alerts logo concept 2](/images/work/logos/ca-02.jpg)
 
 ### Icons
 Made with Adobe Illustrator.  Each icon represents an incident which could be an enemy sighting (red) or a friendly station (yellow/blue). 

@@ -41,4 +41,4 @@ My approach is based on **empathy** and **storytelling**.  Above all I value **s
 | [WordPress](https://wordpress.org/) | Managing content | Web |
 | [AWS](https://aws.amazon.com/) | S3, Lightsail | Web |
 | [Heroku](https://www.heroku.com/) | Cloud hosting | Web |
-| [Git](https://git-scm.com/) | Github, Bitbucket | Web |
+| [Git](https://git-scm.com/) | Github, Bitbucket | Version Control system |
