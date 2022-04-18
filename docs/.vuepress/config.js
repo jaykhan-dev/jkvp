@@ -43,7 +43,7 @@ const blogSideBar = [
                 text: 'Algorand', 
                 link: '/blog/blockchain/algorand/',
                 children: [
-                    //{ text: 'PureStake', link: '/blog/blockchain/algorand/purestake.md' },
+                    { text: 'Latest Algo block', link: '/blog/blockchain/algorand/algo-block.md' },
                     { text: 'STOI', link: '/blog/blockchain/algorand/stoi.md' },
                     //{ text: 'Governor', link: '/blog/blockchain/algorand/governor.md' },
                 ]
@@ -74,6 +74,7 @@ const blogSideBar = [
                 children: [
                     { text: 'Creating Tabs', link: '/blog/programming/vue/creating-tabs.md'},
                     { text: 'Pinia', link: '/blog/programming/vue/pinia-algo.md'},
+                    
                 ]
             },
             {
