@@ -19,3 +19,8 @@ The client wanted a logo for their new business: an Art Gallery.  I used the ide
 The logo is a folded map with the exclamation mark to indicate conflict.  Having a hard looking font gives the impression of military conflict. 
 
 ![Conflict Alerts logo concept 2](/images/work/logos/ca-02.jpg)
+
+## DjWolf
+A logo for a Django based CMS, similar to Wagtail but utilizing Pandas and Algorand. Dj is short for Django and Wolf refers to Howlin' Wolf.
+
+![DjWolf Logo smal](/images/work/logos/djwolf-logo-200x200.png)

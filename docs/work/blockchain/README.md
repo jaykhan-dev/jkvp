@@ -33,4 +33,4 @@ Music project on the Algorand Blockchain
 
 [See project page](/work/blockchain/endeavr.md)
 
-![Endeavr Hero](/images/work/endeavr/endeavr-hero-100.jpg)
+![Endeavr Hero](/images/work/endeavr/endeavr-new-bg.png)

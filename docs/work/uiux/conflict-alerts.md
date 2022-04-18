@@ -8,7 +8,7 @@ sidebar: auto
 
 [See UI Design](https://conflict-alerts.netlify.app)
 
-[See prototype](https://ukiemapper.herokuapp.com/)
+[See prototype](https://conflictalerts.com/)
 
 Conflict Alerts is an app to help the Ukrainians.
 
