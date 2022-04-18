@@ -24,3 +24,8 @@ The logo is a folded map with the exclamation mark to indicate conflict.  Having
 A logo for a Django based CMS, similar to Wagtail but utilizing Pandas and Algorand. Dj is short for Django and Wolf refers to Howlin' Wolf.
 
 ![DjWolf Logo smal](/images/work/logos/djwolf-logo-200x200.png)
+
+## Cobra Design
+This was a test piece for a company in Vancouver.  The idea was to combine a diamond, cobra and a sound wave into one piece.  They didn't go with the design but I like it enough to showcase it here. If you wish to use it, [let me know](/contact). 
+
+![Cobra Design](/images/work/logos/cobraDesign-01.png)
