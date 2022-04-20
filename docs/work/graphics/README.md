@@ -3,7 +3,7 @@ sidebar: auto
 ---
 
 # Graphic Design
-
+[See design philosophies](/work/graphics/graphics-philosophy.md)
 
 ## Posters
 [See projects](/work/graphics/posters.md)
