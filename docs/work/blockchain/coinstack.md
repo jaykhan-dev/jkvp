@@ -50,4 +50,4 @@ Vuetify was built on Material components which means that it has accessibility b
 ## Wireframes
 Made with Adobe XD.  
 
-![Coinstack Wireframe](/images/work/coinstack/coinstack-wireframe.png)
+![Coinstack Wireframe](/images/work/coinstack/Coinstack-wireframe.png)
