@@ -34,3 +34,10 @@ Music project on the Algorand Blockchain
 [See project page](/work/blockchain/endeavr.md)
 
 ![Endeavr Hero](/images/work/endeavr/endeavr-new-bg.png)
+
+### 5. Coinsack
+Crypto asset dashboard made with Vue and Vuetify
+
+[See project page](/work/blockchain/coinstack.md)
+
+![Coinstack dashboard screenshot](/images/work/coinstack/coinstack-screenshot.png)

@@ -31,7 +31,7 @@ An Ethereum-compatible smart contract parachain on Polkadot.
 [Official site](https://web3.foundation/)
 
 ## Witness 
-[page link](https://www.ata.network/witness)
+[Page link](https://www.ata.network/witness)
 
 Private governance
 
@@ -43,6 +43,8 @@ Private governance
 [Page link](https://www.ata.network/conveyor)
 
 MEV Minimization
+
+> At Automata, we foresee that a fully private design is the only solution for the long term. This ensures that no actors with privileged access can observe and therefore influence how transactions are settled on-chain. 
 
 ## Librarian
 Do-not-track indexing
