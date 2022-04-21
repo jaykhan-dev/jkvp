@@ -33,7 +33,7 @@ CMS Support (this is a partial list):
 ## Blockchain
 
 ### Ethereum
-With the largest crypto community, dapps, projects, crypto based exchanges and sidechaines, Ethereum is important to the evolution of the borderless economy.  With projects like Polygon which reduce gas fees significantly, it is possible to create stores that utilize the vast resources available. 
+With the largest crypto community, dapps, projects, crypto based exchanges and sidechains, Ethereum is important to the evolution of the borderless economy.  With projects like Polygon which reduce gas fees significantly, it is possible to create stores that utilize the vast resources available. 
 
 ### Algorand
 Algorand is a third generation blockchain that is carbon negative, cheap to use, and blazing fast.  It is still new and so doesn't have the same number of users but the technology is cutting edge. 
