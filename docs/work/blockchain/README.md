@@ -26,7 +26,7 @@ Creative Web3 Agency
 
 [See project page](/work/blockchain/melange-labs.md)
 
-![Melange Labs image](/images/work/melangelabs/mlabs-ecosystem.png)
+![Melange Labs image](/images/work/melangelabs/melangelabs-hero.png)
 
 ### 4. Endeavr
 Music project on the Algorand Blockchain
