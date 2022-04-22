@@ -38,7 +38,7 @@ A client would either send in their requests and I would make the design based o
 
 ### Acton Auto
 
-![Acton auto](/images/work/marketing-material/acton-auto.JPG)
+![Acton auto](/images/work/marketing-material/acton-auto.jpg)
 
 ### SGS Compuwave
 
