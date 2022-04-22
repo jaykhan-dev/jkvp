@@ -20,9 +20,61 @@ A client would either send in their requests and I would make the design based o
 
 ![Food is love](/images/work/marketing-material/foodislove.jpg)
 
+### Aquatera
+
+![ALC](/images/work/marketing-material/aquatera.png)
+
+### Afrikana
+
+![ALC](/images/work/marketing-material/afrikana.png)
+
+### Armstrong Motors
+
+![ALC](/images/work/marketing-material/armstrong.png)
+
+### Bakerview
+
+![ALC](/images/work/marketing-material/bakerview.png)
+
+### Battleford Furniture
+
+![ALC](/images/work/marketing-material/battleford.png)
+
+### Mill St.
+
+![ALC](/images/work/marketing-material/beer.png)
+
+### Bistro
+
+![ALC](/images/work/marketing-material/bistro.png)
+
+### CC Cycle
+
+![ALC](/images/work/marketing-material/cc-cycle.png)
+
+### Celtic Traditions
+
+![ALC](/images/work/marketing-material/celtic-traditions.png)
+
+### Mental Health Clinic
+
+![ALC](/images/work/marketing-material/depression.png)
+
+### Designer Autobody
+
+![ALC](/images/work/marketing-material/designer-autobody.png)
+
+### Homeopath
+
+![ALC](/images/work/marketing-material/homeopathy.png)
+
 ### ALC
 
 ![ALC](/images/work/marketing-material/ALC.png)
+
+### Steakhouse
+
+![ALC](/images/work/marketing-material/steakhouse.png)
 
 ### Blue Bird Cafe 
 
@@ -32,14 +84,14 @@ A client would either send in their requests and I would make the design based o
 
 ![Canadian tire](/images/work/marketing-material/canadian-tire.png)
 
-### Battle ford Furniture
+### Sunlife
 
-![Battle ford furniture](/images/work/marketing-material/furniture.png)
+![ALC](/images/work/marketing-material/sunlife.png)
 
-### Acton Auto
+### Dr. Christine Smith
 
-![Acton auto](/images/work/marketing-material/acton-auto.jpg)
+![ALC](/images/work/marketing-material/swan.png)
 
-### SGS Compuwave
 
-![SGS Compuwave](/images/work/marketing-material/sgscompuwave.jpg)
+
+
