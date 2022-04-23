@@ -62,7 +62,9 @@ const blogSideBar = [
             { text: 'Crypto Jobs', link: '/blog/blockchain/crypto-jobs.md' },
             { text: 'Stablecoins', link: '/blog/blockchain/stablecoins.md' },
             { text: 'DAO', link: '/blog/blockchain/DAO.md' },
-            //{ text: 'DeFi', link: '/blog/blockchain/defi.md' }
+            //{ text: 'DeFi', link: '/blog/blockchain/defi.md' },
+            { text: 'Traditional Finance', link: '/blog/blockchain/traditional-finance.md' },
+
         ]
     },
     {

@@ -22,11 +22,11 @@ A client would either send in their requests and I would make the design based o
 
 ### Aquatera
 
-![ALC](/images/work/marketing-material/aquatera.png)
+![ALC](/images/work/marketing-material/aquatera-100.jpg)
 
 ### Afrikana
 
-![ALC](/images/work/marketing-material/afrikana.png)
+![ALC](/images/work/marketing-material/afrikana-100.jpg)
 
 ### Armstrong Motors
 
@@ -38,7 +38,7 @@ A client would either send in their requests and I would make the design based o
 
 ### Battleford Furniture
 
-![ALC](/images/work/marketing-material/battleford.png)
+![ALC](/images/work/marketing-material/battleford-100.jpg)
 
 ### Mill St.
 
@@ -50,15 +50,15 @@ A client would either send in their requests and I would make the design based o
 
 ### CC Cycle
 
-![ALC](/images/work/marketing-material/cc-cycle.png)
+![ALC](/images/work/marketing-material/cc-cycle-100.jpg)
 
 ### Celtic Traditions
 
-![ALC](/images/work/marketing-material/celtic-traditions.png)
+![ALC](/images/work/marketing-material/celtic-100.jpg)
 
 ### Mental Health Clinic
 
-![ALC](/images/work/marketing-material/depression.png)
+![ALC](/images/work/marketing-material/depression-100.jpg)
 
 ### Designer Autobody
 
@@ -74,7 +74,7 @@ A client would either send in their requests and I would make the design based o
 
 ### Steakhouse
 
-![ALC](/images/work/marketing-material/steakhouse.png)
+![ALC](/images/work/marketing-material/steakhouse-100.jpg)
 
 ### Blue Bird Cafe 
 
