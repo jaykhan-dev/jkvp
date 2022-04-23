@@ -63,7 +63,7 @@ const blogSideBar = [
             { text: 'Stablecoins', link: '/blog/blockchain/stablecoins.md' },
             { text: 'DAO', link: '/blog/blockchain/DAO.md' },
             //{ text: 'DeFi', link: '/blog/blockchain/defi.md' },
-            { text: 'Traditional Finance', link: '/blog/blockchain/traditional-finance.md' },
+            //{ text: 'CeFi', link: '/blog/blockchain/cefi.md' },
 
         ]
     },
