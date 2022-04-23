@@ -22,51 +22,51 @@ A client would either send in their requests and I would make the design based o
 
 ### Aquatera
 
-![ALC](/images/work/marketing-material/aquatera-100.jpg)
+![Aquatera](/images/work/marketing-material/aquatera-100.jpg)
 
 ### Afrikana
 
-![ALC](/images/work/marketing-material/afrikana-100.jpg)
+![Afrikana](/images/work/marketing-material/afrikana-100.jpg)
 
 ### Armstrong Motors
 
-![ALC](/images/work/marketing-material/armstrong.png)
+![Armstrong Motors](/images/work/marketing-material/armstrong.png)
 
 ### Bakerview
 
-![ALC](/images/work/marketing-material/bakerview.png)
+![Bakerview](/images/work/marketing-material/bakerview.png)
 
 ### Battleford Furniture
 
-![ALC](/images/work/marketing-material/battleford-100.jpg)
+![Battleford Furniture](/images/work/marketing-material/battleford-100.jpg)
 
 ### Mill St.
 
-![ALC](/images/work/marketing-material/beer.png)
+![Mill St.](/images/work/marketing-material/beer.png)
 
 ### Bistro
 
-![ALC](/images/work/marketing-material/bistro.png)
+![Bistro](/images/work/marketing-material/bistro.png)
 
 ### CC Cycle
 
-![ALC](/images/work/marketing-material/cc-cycle-100.jpg)
+![CC Cycle](/images/work/marketing-material/cc-cycle-100.jpg)
 
 ### Celtic Traditions
 
-![ALC](/images/work/marketing-material/celtic-100.jpg)
+![Celtic Traditions](/images/work/marketing-material/celtic-100.jpg)
 
 ### Mental Health Clinic
 
-![ALC](/images/work/marketing-material/depression-100.jpg)
+![Mental Health clinic](/images/work/marketing-material/depression-100.jpg)
 
 ### Designer Autobody
 
-![ALC](/images/work/marketing-material/designer-autobody.png)
+![Designer Autobody](/images/work/marketing-material/designer-autobody.png)
 
 ### Homeopath
 
-![ALC](/images/work/marketing-material/homeopathy.png)
+![Homeopathy](/images/work/marketing-material/homeopathy.png)
 
 ### ALC
 
@@ -74,7 +74,7 @@ A client would either send in their requests and I would make the design based o
 
 ### Steakhouse
 
-![ALC](/images/work/marketing-material/steakhouse-100.jpg)
+![Steakhouse](/images/work/marketing-material/steakhouse-100.jpg)
 
 ### Blue Bird Cafe 
 
@@ -86,11 +86,11 @@ A client would either send in their requests and I would make the design based o
 
 ### Sunlife
 
-![ALC](/images/work/marketing-material/sunlife.png)
+![Sunlife](/images/work/marketing-material/sunlife.png)
 
 ### Dr. Christine Smith
 
-![ALC](/images/work/marketing-material/swan.png)
+![Christine Smith](/images/work/marketing-material/swan.png)
 
 
 
