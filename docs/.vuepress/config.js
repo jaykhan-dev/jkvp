@@ -45,7 +45,8 @@ const blogSideBar = [
                 children: [
                     { text: 'Latest Algo block', link: '/blog/blockchain/algorand/algo-block.md' },
                     { text: 'STOI', link: '/blog/blockchain/algorand/stoi.md' },
-                    //{ text: 'Governor', link: '/blog/blockchain/algorand/governor.md' },
+                    { text: 'Algorand Standard Asset', link: '/blog/blockchain/algorand/asa.md' },
+                    { text: 'Vue + Reach', link: '/blog/blockchain/algorand/vue-reach.md' },
                 ]
             },
             {
