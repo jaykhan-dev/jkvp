@@ -4,6 +4,17 @@ sidebar: auto
 
 # Posters
 
+## ATA Network
+[ATA Network](https://www.ata.network/)
+
+ATA Network is a blockchain company that acts as a privacy middleware. The following two posters were an assignment from one of the recruiters. 
+
+### Concept 1
+![ATA Network poster idea 1](/images/work/posters/ata_concept1.png)
+
+### Concept2
+![ATA Network poster idea 2](/images/work/posters/ata_concept2.png)
+
 ## European Cinema
 
 [European Cinema](https://www.cfi-icf.ca/)
@@ -28,13 +39,4 @@ I took inspiration from graphic posters that I had seen around town and wanted t
 
 ![European Cinema Design 2](/images/work/posters/euro-cinema-2.png)
 
-## ATA Network
-[ATA Network](https://www.ata.network/)
 
-ATA Network is a blockchain company that acts as a privacy middleware. The following two posters were an assignment from one of the recruiters. 
-
-### Concept 1
-![ATA Network poster idea 1](/images/work/posters/ata_concept1.png)
-
-### Concept2
-![ATA Network poster idea 2](/images/work/posters/ata_concept2.png)
