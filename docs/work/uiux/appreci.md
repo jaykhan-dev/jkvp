@@ -5,12 +5,15 @@ sidebar: auto
 # Appreci
 [Landing Page](https://appreci.netlify.app)
 
-[Official site](https://appreci.io)
+
 
 ![Appreci hero](/images/work/appreci/appreci-hero.png)
 
 ## Project details
-Appreci is a company in Australia. Their business model is centered around sending gifts to colleagues or friends as a way of showing appreciation and gratitude.  The benefit of this is to build trust which is essential to any functioning organization.  
+
+[Official site](https://appreci.io)
+
+Appreci is a company in Australia. Their business model is centered around sending gifts to colleagues or friends as a way of showing appreciation and gratitude.  The benefit of this is to build trust which is essential to any functioning organization.
 
 They have partnered with local businesses to grow their business and make the process of gifting easy and memorable.
 
