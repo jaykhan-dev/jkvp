@@ -133,7 +133,7 @@ const musicSideBar = [
 module.exports = {
     // site config
     lang: 'en-US',
-    //title: 'J. Khan',
+    title: 'J. Khan',
     //description: 'Web3 Portfolio',   
   
     // theme and its config

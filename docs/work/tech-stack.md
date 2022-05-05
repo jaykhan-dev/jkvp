@@ -20,7 +20,9 @@ The following table highlights the main technology stack that I am familiar with
 ### Operating systems
 | Software | Description |
 | ----------- | ----------- |
-| [Microsoft](https://www.microsoft.com/) | Microsoft Office |
+| [Microsoft](https://www.microsoft.com/) | Windows 10, Microsoft Office |
+| [Linux](https://www.linuxfoundation.org/) | Ubuntu 20.04, AWS, Heroku |
+| [Apple](https://www.apple.com/) | MacOS, Logic Pro |
 
 ### Blockchain
 | Software | Description |
