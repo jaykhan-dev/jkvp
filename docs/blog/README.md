@@ -11,5 +11,5 @@ More specifically related to Python and JavaScript as those are the only two lan
 ## Art
 A general blog about the art world.  Topics include music, cinema, digital art etc.
 
-## Life
+## [Life](/blog/life)
 Blogs about philosophy, travel, biographies, and just living in general.

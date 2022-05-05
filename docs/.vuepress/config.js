@@ -104,9 +104,8 @@ const blogSideBar = [
     },
     {
         text: 'Life',
-        //link: '/blog/life/',
+        link: '/blog/life/README.md/',
         children: [
-            { text: 'Bio', link: '/blog/life/bio.md' },
             { text: 'Stoicism', link: '/blog/life/stoicism.md'},            
             { text: 'Alan Watts', link: '/blog/life/alan-watts.md'},
             { text: 'Musashi', link: '/blog/life/musashi.md'},
@@ -134,8 +133,8 @@ const musicSideBar = [
 module.exports = {
     // site config
     lang: 'en-US',
-    title: 'J. Khan',
-    description: 'Web3 Portfolio',   
+    //title: 'J. Khan',
+    //description: 'Web3 Portfolio',   
   
     // theme and its config
     theme: '@vuepress/theme-default',
@@ -154,7 +153,8 @@ module.exports = {
                 { text: 'UI/UX', link: '/work/uiux/README.md'},
                 { text: 'Blockchain', link: '/work/blockchain/README.md'},
                 { text: 'Graphic Design', link: '/work/graphics/README.md'},
-                { text: 'Resume', link: '/work/resume.md' }
+                { text: 'Resume', link: '/work/resume.md' },
+                { text: 'Tech Stack', link: '/work/tech-stack.md'}
             ]
         },
         { text: 'Blog', link: '/blog/'},
