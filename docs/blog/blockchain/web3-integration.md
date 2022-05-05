@@ -115,6 +115,7 @@ Below are crypto related payment options available on Shopify
 | [Coinbase](https://commerce.coinbase.com/integrate/shopify) | Accept multiple cryptocurrencies on your Shopify store |
 
 [Source](https://help.shopify.com/en/manual/payments/alternative-payments/cryptocurrency)
+
 [Blockchain App Partners](https://help.shopify.com/en/manual/products/digital-service-product/nfts/blockchain-app-partners)
 
 ## Obstacles
