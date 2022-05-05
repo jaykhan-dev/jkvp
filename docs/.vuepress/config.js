@@ -65,6 +65,7 @@ const blogSideBar = [
             { text: 'DAO', link: '/blog/blockchain/DAO.md' },
             //{ text: 'DeFi', link: '/blog/blockchain/defi.md' },
             //{ text: 'CeFi', link: '/blog/blockchain/cefi.md' },
+            { text: 'Web3 Integration', link: '/blog/blockchain/web3-integration.md' },
 
         ]
     },
