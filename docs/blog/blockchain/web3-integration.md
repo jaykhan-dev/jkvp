@@ -121,7 +121,7 @@ Below are crypto related payment options available on Shopify
 ## Obstacles
 
 ### Regulations
-Soverign governments may decide to regulate cryptocurrencies or ban them outright.  Since these topics are dynamic, it is worth following media and twitter stories for the latest news. 
+Sovereign governments may decide to regulate cryptocurrencies or ban them outright.  Since these topics are dynamic, it is worth following media and twitter stories for the latest news. 
 
 Recent examples:
 - [China bans Bitcoin](https://www.bbc.com/news/technology-58678907)

@@ -2,7 +2,7 @@
 home: true
 heroImage: /images/jaykhan-picture.png
 heroText: J. Khan
-tagline: Welcome to my portfolio.  I'm a creative visual designer with a passion for web3. I've split up my work projects into the following categories...
+tagline: Welcome to my portfolio.  I'm a creative visual designer with a passion for web3. I've split up my work projects with details into the following categories...
 actions:
   - text: UI/UX
     link: /work/uiux/

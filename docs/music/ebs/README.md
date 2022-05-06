@@ -1,7 +1,14 @@
 # Eternal Blue Sky
 
+![Blue sky at night](/images/music/bluesky-night.jpg)
+
 A work in progress.  For the past few years I've been producing individual tracks that didn't have much of a connection with each other.  I decided to consolidate
-all the music I made into one album.  
+all the music I made into one album.
+
+## NFT 
+The NFTs are currently in progress.  They will be minted on the Algorand blockchain.
+
+[NFT Endeavr](https://music-endeavr.netlify.app/music)
 
 ## Tracks
 

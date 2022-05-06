@@ -135,7 +135,7 @@ module.exports = {
     lang: 'en-US',
     title: 'J. Khan',
     //description: 'Web3 Portfolio',   
-  
+
     // theme and its config
     theme: '@vuepress/theme-default',
     themeConfig: {
