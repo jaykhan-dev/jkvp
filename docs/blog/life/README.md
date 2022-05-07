@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 ## Bio
 
 Ever since I was a boy, I've been attracted to art.  Be that music, books, movies, or paintings, it is a constant source of inspiration.  I went to college and university
