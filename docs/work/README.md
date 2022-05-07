@@ -15,7 +15,7 @@ Perhaps the most revolutionary technology to emerge in the past 20 or so years a
 ## [Graphic Design](/work/graphics/)
 I started my career as a graphic designer making videos, posters, and advertisements.  I eventually decided to work on interactive experiences because of how useful and prevalent it is.  
 
-## [Resume](/work/graphics/)
+## [Resume](/work/resume/)
 My career has been evolving every year.  Never one to get too comfortable, I have always strived to expand my skills and seek more challenging roles. 
 
 ## [Tech Stack](/work/graphics/)
