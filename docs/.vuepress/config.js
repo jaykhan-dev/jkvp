@@ -56,6 +56,7 @@ const blogSideBar = [
                     //{ text: 'The Merge', link: '/blog/blockchain/ethereum/eth-merge.md'},
                     //{ text: 'Automata Network', link: '/blog/blockchain/ethereum/automata.md'},
                     { text: 'Infura', link: '/blog/blockchain/ethereum/infura.md'},
+                    { text: 'MetaMask', link: '/blog/blockchain/ethereum/metamask.md'},
                 ]
             },
             { text: 'Contra', link: '/blog/blockchain/contra.md' },
@@ -79,7 +80,7 @@ const blogSideBar = [
                 children: [
                     { text: 'Creating Tabs', link: '/blog/programming/vue/creating-tabs.md'},
                     { text: 'Pinia', link: '/blog/programming/vue/pinia-algo.md'},
-                    
+                    { text: 'GSAP', link: '/blog/programming/vue/gsap.md'},
                 ]
             },
             {

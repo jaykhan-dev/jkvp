@@ -32,7 +32,7 @@ Blockchains are encrypted by design, which means tampering with the data or tryi
 Since crypto payments are direct transactions from customer to seller, any delay is more of a matter of seconds and minutes rather than days.
 
 ### Rewards and branding
-Offering rewards in terms of crypto are a great incentive for small businesses to adopt blockchain technology.  This would be great for PR, marketing purposes and a way to attrack both new and repeat customers. Happy customers make for good sales people. 
+Offering rewards in terms of crypto are a great incentive for small businesses to adopt blockchain technology.  This would be great for PR, marketing purposes and a way to attract both new and repeat customers. Happy customers make for good sales people. 
 
 ### Wider customer base
 Money transfers and payments can be sent to anyone around the world (provided they have a crypto wallet) without the need for exchanging currencies and bank transfer fees.
