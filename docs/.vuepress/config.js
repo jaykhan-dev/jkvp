@@ -89,7 +89,8 @@ const blogSideBar = [
                 children: [
                     //{ text: 'Choice Coin', link: '/blog/programming/choice-coin.md' }
                     { text: 'Flask Blockchain', link: '/blog/programming/python/flask-blockchain.md' },
-                    { text: 'Simple Blockchain in Python', link: '/blog/programming/python/python-blockchain.md' }
+                    { text: 'Simple Blockchain in Python', link: '/blog/programming/python/python-blockchain.md' },
+                    { text: 'PyScript', link: '/blog/programming/python/py-script.md' }
                 ]
             },
             { text: 'E-Commerce', link: '/blog/programming/e-comm.md'},
