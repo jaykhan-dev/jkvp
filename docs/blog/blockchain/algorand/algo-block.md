@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 # Latest Algorand Block
 This code snippet uses the PureStake API to get the latest block in a Vue component. The base server is the [TestNet](https://developer.algorand.org/docs/get-details/algorand-networks/testnet/) for Algorand.  This is useful to test out code before deploying to production and the MainNet. 
 

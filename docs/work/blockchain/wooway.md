@@ -2,33 +2,30 @@
 sidebar: auto
 ---
 
-# Melange Labs
-A creative web3 agency
+# WooWay
+Vue + WordPress + Blockchain
 
-[See Prototype](https://melangelabs.netlify.app)
+[See Prototype](https://wooway.netlify.app)
 
-![Melange Labs Vue Ecosystem](/images/work/melangelabs/melangelabs-hero.png)
+![WooWay Hero](/images/work/wooway/wooway-hero.jpg)
 
 ## Project Details
-Melange Labs aims to **fill the gap** in the current Web3 market that uses blockchain for finance instead of only the traditional monetary systems. 
+WooWay aims to **fill the gap** in the current Web3 market that uses blockchain for finance instead of only the traditional monetary systems. 
 
 Web3 is creating new opportunities that require either creating brand new systems from scratch, or revamping old ones to fit the current trends in technology.  With the Blockchain, we have a new kind of database that is immutable and most importantly, **public knowledge**. This is precisely what makes it so powerful and disruptive.  
 
 ## Requirements
 
-- Must be able to setup an online store with Vue Storefront
-- The backendend/CMS is separate from the frontend
+- The frontend is made with Vue JS and hosted on a platform like Netlify
+- The backendend/CMS is WordPress because of it's massive ecosystem and wide userbase
 - Prices and services are listed in Crypto and stablecoins like USDC, USDT
 
-CMS Support (this is a partial list):
+Plugins for WordPress:
 
-- [BigCommerce](https://www.bigcommerce.com/)
-- [commercetools](https://commercetools.com/?location=apac)
-- [Shopify](https://www.shopify.com/)
-- [Magento](https://business.adobe.com/ca/products/magento/magento-commerce.html)
-- [Contenful](https://www.contentful.com/)
-- [Storyblok](https://www.storyblok.com/)
-- [WooComerce](https://woocommerce.com/) - *coming soon*
+- [WooComerce](https://woocommerce.com/)
+- [Stripe](https://stripe.com/en-ca)
+- [SatoshiPay](https://wordpress.org/plugins/satoshipay/)
+- [WP Blockchain](https://wordpress.org/plugins/wp-blockchain/)
 
 ## Blockchain
 

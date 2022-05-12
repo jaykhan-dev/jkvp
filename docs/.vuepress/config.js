@@ -18,7 +18,7 @@ const workSideBar = [
         children: [
             { text: 'Pitbull Community', link: '/work/blockchain/pitbull-community.md'},
             { text: 'The Smartest City', link: '/work/blockchain/the-smartest-city.md'},
-            { text: 'Melange Labs', link: '/work/blockchain/melange-labs.md'},
+            { text: 'WooWay', link: '/work/blockchain/WooWay.md'},
             { text: 'Endeavr', link: '/work/blockchain/endeavr.md'},
             { text: 'NFTs', link: '/work/blockchain/NFTs.md'},
         ]
@@ -81,6 +81,7 @@ const blogSideBar = [
                     { text: 'Creating Tabs', link: '/blog/programming/vue/creating-tabs.md'},
                     { text: 'Pinia', link: '/blog/programming/vue/pinia-algo.md'},
                     { text: 'GSAP', link: '/blog/programming/vue/gsap.md'},
+                    { text: 'Responsive Nav', link: '/blog/programming/vue/responsive-nav.md'},
                 ]
             },
             {

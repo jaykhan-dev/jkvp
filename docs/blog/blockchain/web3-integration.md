@@ -99,10 +99,10 @@ Below are plugins for integrating blockchain into WordPress sites.  This is by n
 | --- | --- |
 | [WP Blockchain](https://wordpress.org/plugins/wp-blockchain/) | "WP Blockchain opens a whole new gateway to stamp pretty much everything into blockchain, directly from your WordPress website!" | 
 | [LikeCoin](https://wordpress.org/plugins/likecoin/) | LikeCoin is an infrastructure to decentralize publishing |
-| [Cryptocurrency product for WooCommerc](https://wordpress.org/plugins/cryptocurrency-product-for-woocommerce/) | A plugin that supports selling and using cryptocurrencies for WooCommerce.  Funds can be swapped for fiat as well. |
+| [Cryptocurrency product for WooCommerce](https://wordpress.org/plugins/cryptocurrency-product-for-woocommerce/) | A plugin that supports selling and using cryptocurrencies for WooCommerce.  Funds can be swapped for fiat as well. |
 | [SatoshiPay](https://wordpress.org/plugins/satoshipay/) | SatoshiPay is a cross-website, 1-click micropayment service based on blockchain technology. |
 | [AndPay](https://wordpress.org/plugins/algo-payments-by-andpay/) | Algo payments for WooCommerce |
-| [Stripe]() | Stripe is open to accepting crypto payments.  See [article](https://www.circle.com/blog/stripe-and-bitcoin) |
+| [Stripe](https://stripe.com/en-ca) | Stripe is open to accepting crypto payments.  See [article](https://www.circle.com/blog/stripe-and-bitcoin) |
 
 
 ### Shopify
