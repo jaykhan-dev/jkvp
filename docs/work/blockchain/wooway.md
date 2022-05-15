@@ -14,7 +14,29 @@ WooWay aims to **fill the gap** in the current Web3 market that uses blockchain 
 
 Web3 is creating new opportunities that require either creating brand new systems from scratch, or revamping old ones to fit the current trends in technology.  With the Blockchain, we have a new kind of database that is immutable and most importantly, **public knowledge**. This is precisely what makes it so powerful and disruptive.  
 
-## Requirements
+## UX 
+
+### Color scheme
+I prefer darker colors because it is easier on the eyes.  Dark blue works well with greens and white.  The following colors each have their purpose.
+
+- Purple: Links
+- Green: Large headers
+- White: regular text
+- Dark blue: background color
+
+### Layout
+
+### Target Audience
+
+### Frontend
+
+### Backend
+
+### Blockchain
+
+### User flows
+
+## Technology
 
 - The frontend is made with Vue JS and hosted on a platform like Netlify
 - The backendend/CMS is WordPress because of it's massive ecosystem and wide userbase

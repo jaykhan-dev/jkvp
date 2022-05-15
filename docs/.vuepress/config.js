@@ -82,6 +82,7 @@ const blogSideBar = [
                     { text: 'Pinia', link: '/blog/programming/vue/pinia-algo.md'},
                     { text: 'GSAP', link: '/blog/programming/vue/gsap.md'},
                     { text: 'Responsive Nav', link: '/blog/programming/vue/responsive-nav.md'},
+                    { text: 'Marquee', link: '/blog/programming/vue/marquee.md'},
                 ]
             },
             {
