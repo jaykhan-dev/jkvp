@@ -9,6 +9,11 @@ sidebar: auto
 
 ![Appreci hero](/images/work/appreci/appreci-hero.png)
 
+## My Role
+My role was to create a new layout for the landing page to make it more appealing.  I used Vue JS and Tailwind CSS to create a design prototype and hosted it on Netlify for fast loads with HTTPS security.  With a strong background in graphic design, I was able to create the initial design in about 8 hours with scrolling animations and a responsive layout.   
+
+Additionally, I recreated 2 pages on their official WordPress site with Elementor which is a powerful tool but requires a subscription to get all the features.  I changed their product/catalogue page to make it a bit more modern with parallax images.  I found graphics, gifs, icons, and optimized images for the web.  
+
 ## Project details
 
 [Official site](https://appreci.io)
@@ -39,12 +44,6 @@ They have partnered with local businesses to grow their business and make the pr
 2. Choose the items to be sent as a gift
 3. Find the person either through email or their name if they are already in the database
 4. Recipient can redeem a gift card or get the gift delivered to their address
-
-
-## Technology
-I used Vue JS to build the landing page. By hosting the site on Netlify, it loads quickly and the user experience feels smoother.  
-
-The company uses WordPress for the main site where the customer can sign up, and a Shopify store to sell their products.
 
 ## Main competitor
 
