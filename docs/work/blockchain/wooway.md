@@ -24,19 +24,10 @@ I prefer darker colors because it is easier on the eyes.  Dark blue works well w
 - White: regular text
 - Dark blue: background color
 
-### Layout
-
 ### Target Audience
+The intended audience for this application is the NFT, blockchain and music crowd.  They could range from anywhere between 14-65+ since music only has an age limit if it has a 'Parental Advisory' label.  The type of music I compose and produce would not fall into that category and so I consider anyone who enjoys music to be the target audience.
 
-### Frontend
-
-### Backend
-
-### Blockchain
-
-### User flows
-
-## Technology
+### Technology
 
 - The frontend is made with Vue JS and hosted on a platform like Netlify
 - The backendend/CMS is WordPress because of it's massive ecosystem and wide userbase
