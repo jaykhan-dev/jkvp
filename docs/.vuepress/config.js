@@ -40,11 +40,11 @@ const blogSideBar = [
         link: '/blog/blockchain/README.md',
         children: [
             {
-text: 'Bitcoin',
-link: '/blog/blockchain/bitcoin',
-children: [
-    { text: 'Lightning Network', link: '/blog/blockchain/bitcoin/lightning-network.md' }
-]
+                text: 'Bitcoin',
+                link: '/blog/blockchain/bitcoin',
+                children: [
+                    { text: 'Lightning Network', link: '/blog/blockchain/bitcoin/lightning-network.md' }
+                ]
             },
             { 
                 text: 'Algorand', 
