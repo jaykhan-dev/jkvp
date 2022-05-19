@@ -18,6 +18,7 @@ This page is about getting into the industry, by any means necessary.  Learn the
 - [Crypto](https://crypto.jobs)
 - [Angel](https://angel.co/)
 - [Web 3 Careers](https://web3.career/)
+- [Bitcoiner Jobs](https://bitcoinerjobs.com/)
 
 ## Salaries
 Based on [Web 3 Careers](https://web3.career/web3-salaries)
