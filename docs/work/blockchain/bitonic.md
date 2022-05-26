@@ -41,7 +41,7 @@ The following wireframes are made with Figma.  The goal of learning and finding 
 
 The news consists of the featured article which is the largest block with recommended articles on the side.  Following the top section are the popular news stories based on views and a podcast section because they are very popular these days. Finally, all the other news items appear at the bottom in a smaller format. 
 
-![News wireframe figma](/images/work/bitonic/NEWS-wireframe.png)
+![News wireframe figma](/images/work/bitonic/news-wireframe.png)
 
 #### Data
 
