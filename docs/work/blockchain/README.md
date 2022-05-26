@@ -6,6 +6,22 @@ sidebar: auto
 
 ## Projects:
 
+
+### Pitbull Community
+
+Homepage UI/UX redesign for a token running on the Binance Smart Chain.
+
+[See project page](/work/blockchain/pitbull-community.md)
+
+![Pitbull Community Hero section](/images/work/pitbull/pitbull-hero.png)
+
+### Bitonic
+Bitcoin based jobs, news, data and educational resources. 
+
+[See project page](/work/blockchain/bitonic.md)
+
+![Bitonic Hero section](/images/work/bitonic/hero-section-2.png)
+
 ### WooWay
 Combining Vue JS, WordPress and Blockchain to build modern online stores
 
@@ -20,13 +36,6 @@ Music project on the Algorand Blockchain
 
 ![Endeavr Hero](/images/work/endeavr/endeavr-new-bg.png)
 
-### Pitbull Community
-
-[See project page](/work/blockchain/pitbull-community.md)
-
-A blockchain project running on the Ethereum blockchain. 
-
-![Pitbull Community Hero section](/images/work/pitbull/pitbull-hero.png)
 
 ### The Smartest City
 A new blockchain concept for a city-wide metaverse.
@@ -35,9 +44,3 @@ A new blockchain concept for a city-wide metaverse.
 
 ![The Smartest City home page](/images/work/the-smartest-city/the-smartest-city.png)
 
-### Coinstack
-Crypto asset dashboard made with Vue and Vuetify
-
-[See project page](/work/blockchain/coinstack.md)
-
-![Coinstack dashboard screenshot](/images/work/coinstack/coinstack-screenshot.png)

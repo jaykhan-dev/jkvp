@@ -20,7 +20,7 @@ const workSideBar = [
             { text: 'The Smartest City', link: '/work/blockchain/the-smartest-city.md'},
             { text: 'WooWay', link: '/work/blockchain/WooWay.md'},
             { text: 'Endeavr', link: '/work/blockchain/endeavr.md'},
-            { text: 'NFTs', link: '/work/blockchain/NFTs.md'},
+            //{ text: 'NFTs', link: '/work/blockchain/NFTs.md'},
         ]
     },
     {
