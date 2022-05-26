@@ -18,7 +18,7 @@ Homepage UI/UX redesign for a token running on the Binance Smart Chain.
 ### Bit & Tonic
 Bitcoin based jobs, news, data and educational resources. 
 
-[See project page](/work/blockchain/bitonic.md)
+[See project page](/work/blockchain/bit&tonic.md)
 
 ![Bitonic Hero section](/images/work/bitonic/bit&tonic.png)
 

@@ -21,6 +21,7 @@ const workSideBar = [
             { text: 'WooWay', link: '/work/blockchain/WooWay.md'},
             { text: 'Endeavr', link: '/work/blockchain/endeavr.md'},
             //{ text: 'NFTs', link: '/work/blockchain/NFTs.md'},
+            { text: 'Bit & Tonic', link: '/work/blockchain/bitntonic.md'},
         ]
     },
     {
