@@ -2,13 +2,13 @@
 sidebar: auto
 ---
 
-# Bitonic
+# Bit & Tonic
 
 [See Prototype](https://bitonic.netlify.app) - (Work in Progress)
 
-![Bitonic hero section](/images/work/bitonic/hero-section-2.png)
+![Bitonic hero section](/images/work/bitonic/bit&tonic.png)
 
-**Bitonic is a web application for **financial freedom**.  Bitcoin is by far the largest and most influential of the blockchains currently running, which is the main focus of this application.  The content includes news articles, Bitcoin data, learning resources, and companies that payout in Bitcoin.**
+**Bit & Tonic is a web application for **financial freedom**.  Bitcoin is by far the largest and most influential of the blockchains currently running, which is the main focus of this application.  The content includes news articles, Bitcoin data, learning resources, and companies that payout in Bitcoin.**
 
 ## Project details
 
@@ -18,7 +18,7 @@ After exploring the alt-coin scene and investing in crypto, it has become appare
 ### Purpose
 By learning about and working with companies using Bitcoin and the underlying blockchain technology, one can take control over personal finances and not be subject to the whims of the elite who may decide to change the rules as they wish. 
 
-Bitonic is about financial freedom and Bitcoin is the way to get there.
+Bit & Tonic is about financial freedom and Bitcoin is the way to get there.
 
 ### Technology stack
 - Vue JS

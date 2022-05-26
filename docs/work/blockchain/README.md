@@ -15,12 +15,12 @@ Homepage UI/UX redesign for a token running on the Binance Smart Chain.
 
 ![Pitbull Community Hero section](/images/work/pitbull/pitbull-hero.png)
 
-### Bitonic
+### Bit & Tonic
 Bitcoin based jobs, news, data and educational resources. 
 
 [See project page](/work/blockchain/bitonic.md)
 
-![Bitonic Hero section](/images/work/bitonic/hero-section-2.png)
+![Bitonic Hero section](/images/work/bitonic/bit&tonic.png)
 
 ### WooWay
 Combining Vue JS, WordPress and Blockchain to build modern online stores
