@@ -4,7 +4,7 @@ sidebar: auto
 
 # Bit & Tonic
 
-[See Prototype](https://bitonic.netlify.app) - (Work in Progress)
+[See Prototype](https://bitntonic.netlify.app) - (Work in Progress)
 
 ![Bitonic hero section](/images/work/bitonic/bit&tonic.png)
 
