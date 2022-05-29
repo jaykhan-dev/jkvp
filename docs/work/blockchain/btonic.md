@@ -2,13 +2,13 @@
 sidebar: auto
 ---
 
-# Bit & Tonic
+# BTonic
 
-[See Prototype](https://bitntonic.netlify.app) - (Work in Progress)
+[See Prototype](https://btonic.netlify.app) - (Work in Progress)
 
-![Bitonic hero section](/images/work/bitonic/bit&tonic.png)
+![Bitonic hero section](/images/work/btonic/btonic-hero-100.jpg)
 
-**Bit & Tonic is a web application for **financial freedom**.  Bitcoin is by far the largest and most influential of the blockchains currently running, which is the main focus of this application.  The content includes news articles, Bitcoin data, learning resources, and companies that payout in Bitcoin.**
+**BTonic is a web application for **financial freedom**.  Bitcoin is by far the largest and most influential of the blockchains currently running, which is the main focus of this application.  The content includes news articles, Bitcoin data, learning resources, and companies that payout in Bitcoin.**
 
 ## Project details
 
