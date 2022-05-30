@@ -41,7 +41,7 @@ The following wireframes are made with Figma.  The goal of learning and finding 
 
 The news consists of the featured article which is the largest block with recommended articles on the side.  Following the top section are the popular news stories based on views and a podcast section because they are very popular these days. Finally, all the other news items appear at the bottom in a smaller format. 
 
-![News wireframe figma](/images/work/bitonic/news-wireframe.png)
+![News wireframe figma](/images/work/btonic/news-wireframe.png)
 
 #### Data
 
@@ -54,25 +54,25 @@ The news consists of the featured article which is the largest block with recomm
 - The fifth block is strictly about the mining operations with a hashrate and minig pools.
 - The final and sixth block are links to other resources such as the official Bitcoin whitepaper written by Satoshi Nakamoto.
 
-![Bitcoin Data](/images/work/bitonic/bitcoin-data.png)
+![Bitcoin Data](/images/work/btonic/bitcoin-data.png)
 
 #### Learn
 
 A simple layout with the ability to sort by data, category, author, and length (reading/video time).  The articles have a small blurb so that the reader can have an idea of what kind of article this is. 
 
-![Bitonic learn wireframe](/images/work/bitonic/learn-wireframe.png)
+![Bitonic learn wireframe](/images/work/btonic/learn-wireframe.png)
 
 #### Jobs
 
 These jobs can be posted either in the Wagtail backend or sourced from other job boards like [BitcoinerJobs]()
 
-![Bitonic jobs wireframe](/images/work/bitonic/jobs-wireframe.png)
+![Bitonic jobs wireframe](/images/work/btonic/jobs-wireframe.png)
 
 ## Design Styles
 
 ### Colour scheme
 
-![Bitonic website color scheme](/images/work/bitonic/color-scheme.png)
+![Bitonic website color scheme](/images/work/btonic/color-scheme.png)
 
 ### Mood Boards
 
@@ -80,15 +80,15 @@ These jobs can be posted either in the Wagtail backend or sourced from other job
 
 1. [Baumans]() - Logo
 
-![Bitonic logo goolge font](/images/work/bitonic/bitcoin-font.png)
+![Bitonic logo goolge font](/images/work/btonic/bitcoin-font.png)
 
 2. [Alata]() - Main header
 
-![Bitonic main header google font](/images/work/bitonic/main-header-font.png)
+![Bitonic main header google font](/images/work/btonic/main-header-font.png)
 
 3. Outfit - Header 2,3, and paragraph
 
-![Bitonic paragraph and header 2 and 3 google font](/images/work/bitonic/paragraph-h2h3.png)
+![Bitonic paragraph and header 2 and 3 google font](/images/work/btonic/paragraph-h2h3.png)
 
 ## User Flows
 
