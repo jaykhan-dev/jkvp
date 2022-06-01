@@ -15,8 +15,6 @@ Mobile wallets will be the main medium of interacting and transacting with the B
 
 >lnurl is a protocol for communication between Lightning wallets and third-party services. It simplifies complicated common flows into standard subprotocols carried on between the user wallet and the service over simple HTTP JSON calls, leveraging the fact that the third-party services have the luxury of offering an https:// endpoint the user wallet can freely call.
 
-## LND
-
 ### How it works
 
 > 1. The wallet reads a QR code;

@@ -4,7 +4,11 @@ sidebar: auto
 
 # UI/UX
 
+UI/UX covers a lot of different domains when it comes to interactive and visual design.  One skill can be transferred to other industries and vice versa. I've inlcuded more general approaches to design and specific projects to highlight relevant skills and tasks.
+
 [Design Process](/work/uiux/design-process.md)
+
+[Content Strategy](/work/uiux/content-strategy.md)
 
 ## Projects
 

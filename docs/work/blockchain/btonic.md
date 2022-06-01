@@ -68,11 +68,21 @@ These jobs can be posted either in the Wagtail backend or sourced from other job
 
 ![Bitonic jobs wireframe](/images/work/btonic/jobs-wireframe.png)
 
+#### Account Page
+
+#### 
+
 ## Design Styles
 
 ### Colour scheme
 
+Green colour palette
+
+![BToinc Green colour palette](/images/work/btonic/colour-palette.png)
+
 ![Bitonic website color scheme](/images/work/btonic/color-scheme.png)
+
+### Headers
 
 ### Mood Boards
 
