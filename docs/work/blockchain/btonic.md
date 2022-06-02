@@ -6,7 +6,7 @@ sidebar: auto
 
 [See Prototype](https://btonic.netlify.app) - (Work in Progress)
 
-![Bitonic hero section](/images/work/btonic/btonic-hero-100.jpg)
+![Bitonic hero section](/images/work/btonic/btonic-hero.png)
 
 **BTonic is a web application for **financial freedom**.  Bitcoin is by far the largest and most influential of the blockchains currently running, which is the main focus of this application.  The content includes news articles, Bitcoin data, learning resources, and companies that payout in Bitcoin.**
 
@@ -16,9 +16,18 @@ sidebar: auto
 After exploring the alt-coin scene and investing in crypto, it has become apparent that Bitcoin is the dominant digital asset.  Essentially, this project is devoted entirely to Bitcoin because the idea of having a store of value not controlled by any central authority, and one that can be sent around the world in seconds at a fraction of a cost is clearly the **best choice**.
 
 ### Purpose
-By learning about and working with companies using Bitcoin and the underlying blockchain technology, one can take control over personal finances and not be subject to the whims of the elite who may decide to change the rules as they wish. 
+By learning about and working with companies using Bitcoin and the underlying blockchain technology, one can take control over personal finances with self-custody. BTonic is about financial health and Bitcoin is the way to get there.
 
-Bit & Tonic is about financial freedom and Bitcoin is the way to get there.
+### Pain points
+The current job market has changed a lot since the pandemic hit in early 2020.  After millions of people were laid off or had to readust to a remote environment, it sparked the 'Great Resignation'.
+
+| Companies | Contractors |
+|--- | --- |
+| Harder to retain talent with remote options now available | Lots of competition for the same role |
+| Ghosting by candidates | Ghosting by recruiters/HR manager |
+| High applicant volume | ATS filering out qualified candidates |
+| Remote/hybrid work challenges | Self-motivation |
+| Job description asking for more than what is necessary | Keywords on resume |
 
 ### Technology stack
 - Vue JS
@@ -26,6 +35,35 @@ Bit & Tonic is about financial freedom and Bitcoin is the way to get there.
 - Wagtail 
 - CoinLore API
 - LNURL- AUTH
+
+### Frontend
+The frontend is currently being developed in Vue JS because the developer experience is much nicer in my opinion.  It can basically do everything that React can but with less code.  There are lots of online resources, and a huge developer community to ask questions if there are problems.  
+
+### Backend
+The backend is Django/Wagtail which is great for publishing and organizing content.  Django is highly versatile and almost any kind of application can be built using the framework.  It's fast and there is a huge developer community.  Setting up an API is actually quite straightforward with Wagtail. 
+
+## Job Boards
+### Indeed
+One of largest job boards on the internet, Indeed lists thousands of jobs in virtually very industry. 
+
+### Upwork
+Upwork is a popular freelancing platform that has a global user base.  There are millions of jobs posted every year. 
+
+### Linkedin
+Perhaps the largest job related website that connects recruiters and job seekers.  
+
+### Contra
+Contra is a new platform that is aimed at independents and freelancers who are also interested in being paid in crypto.  
+
+### Bitcoin/crypto based  boards
+There are similar Bitcoin and crypto related job boards:
+
+- [Crypto Currency Jobs](https://cryptocurrencyjobs.co)
+- [Crypto Jobs List](https://cryptojobslist.com)
+- [Crypto](https://crypto.jobs)
+- [Angel](https://angel.co/)
+- [Web 3 Careers](https://web3.career/)
+- [Bitcoiner Jobs](https://bitcoinerjobs.com/)
 
 ## UX
 
@@ -69,8 +107,10 @@ These jobs can be posted either in the Wagtail backend or sourced from other job
 ![Bitonic jobs wireframe](/images/work/btonic/jobs-wireframe.png)
 
 #### Account Page
+![Btonic account page](/images/work/btonic/btonic-accountpage.png)
 
-#### 
+#### Job Application Page
+![Btonic job apply page](/images/work/btonic/btonic-applypage.png)
 
 ## Design Styles
 
@@ -81,10 +121,6 @@ Green colour palette
 ![BToinc Green colour palette](/images/work/btonic/colour-palette.png)
 
 ![Bitonic website color scheme](/images/work/btonic/color-scheme.png)
-
-### Headers
-
-### Mood Boards
 
 ### Fonts
 
@@ -102,4 +138,26 @@ Green colour palette
 
 ## User Flows
 
-###  
+### Job application
+
+![BToinc user flow for job application](/images/work/btonic/btonic-jobapp-userflow.png)
+
+## Income stream
+
+How can this platform make money?
+
+
+
+## Why Bitcoin?
+Bitcoin has certain advantages over traditional finance.  
+
+1. It can be sent anywhere in the world in a matter of seconds with the Lightning Network.  This makes working remotely and getting paid much easier
+2. There are no monthly bank, transfer, service fees.  The gas fees are minimal compared to what you might pay by going through the central banks
+3. Self custody of funds is a big change from the traditional system
+4. Deflationary asset which is great for savings.  The price is volatile but after a decade of mining, and more than 19 millions coins in circulation, there are no signs that Bitcoin is going to disappear
+
+#### Pain points:
+ 1. The Bitcoin base layer only processes a few transactions per second.  The lightning network was created to solve the problem of scalability.  Without this, Bitcoin could never reach global adoption
+ 2. Education.  Since it's a new creation, the Blockchain is a complex technology that requires careful study and devotion to understand fully.
+
+

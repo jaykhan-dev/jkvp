@@ -20,7 +20,7 @@ Bitcoin based jobs, news, data and educational resources.
 
 [See project page](/work/blockchain/btonic.md)
 
-![Bitonic Hero section](/images/work/btonic/btonic-hero-100.jpg)
+![Bitonic Hero section](/images/work/btonic/btonic-hero.png)
 
 ### WooWay
 Combining Vue JS, WordPress and Blockchain to build modern online stores
