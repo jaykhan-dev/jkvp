@@ -44,7 +44,8 @@ const blogSideBar = [
                 text: 'Bitcoin',
                 link: '/blog/blockchain/bitcoin',
                 children: [
-                    { text: 'Lightning Network', link: '/blog/blockchain/bitcoin/lightning-network.md' }
+                    { text: 'Lightning Network', link: '/blog/blockchain/bitcoin/lightning-network.md' },
+                    { text: 'Earn Bitcoin', link: '/blog/blockchain/bitcoin/earn.md' },
                 ]
             },
             { 
