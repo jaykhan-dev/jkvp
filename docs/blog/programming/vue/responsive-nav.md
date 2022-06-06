@@ -64,7 +64,9 @@ There is no styling, only the `HTML` and the `JavaScript`.
 
   <router-view />
 </template>
+```
 
+```html
 <script>
 import { ref } from "vue";
 
