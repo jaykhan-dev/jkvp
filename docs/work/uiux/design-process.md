@@ -41,13 +41,50 @@ The key to success.  No user wants to go through loops and ladders just to buy a
 [How Steve Jobs' #1 Design Principle Can Transform Your Daily Life](https://www.entrepreneur.com/article/369186)
 
 ## 2. Define
-The goals of the project and what you are trying to achieve.  It is important to be as detailed as possible. 
+Understanding how you are building the project for is fundamental to design. 
+
+### User persona template
+![User persona template](/images/work/design-process/persona-map-template.jpg)
 
 ## 3. Ideate and Collaborate
-Initial sketches, storyboards, questions, outlines, mock-ups and features.
+The stage where a lot of the design thinking happens. 
+
+### User flows
+
+- **Understand your user.** When deciding how to get users to interact with your product in a flow-like state, understanding the user’s needs and motivations allows you to make an informed choice.
+
+- **Create a flow outline.** It can be helpful to divide your flow chart into three main stages: an entry point, the steps to completion, and the final step in completing a task or interaction.
+
+- **Define the elements of your user flow.**  Use differen shapes to represent the action.  A fully rounded button is a starting and ending point.  A diamond is where a decision needs to be made.  A rectangle is a stage of the flow and arrows indicate the flow of the task. 
+
+- **Refine your outline.** The same principles you apply when designing an interface can and should be applied when designing a UX flowchart.
+
+![User flow example](/images/work/design-process/user-flow-example.png)
+
+### Wireframes
+Wireframes help define the outline and layout of the website or app.  This helps in having a starting point and it does not need to be super detailed or pixel perfect.  In fact most likely, the design will change.  Any real design goes through a process and it's best not be rigid and too singular when it comes to designing. Often ideas can come from seemingly random places and the best policy is to keep an open mind. 
 
 ## 4. Prototype
-Create an initial design that is interactive.  Usually with a tool like Adobe XD or Figma.  Sometimes I use Vue JS for rapid prototyping.
+Prototypes can be made with Figma and Adobe XD.  Sometimes it might even be more efficient to create it with HTML/CSS and JavaScript. This would speed up the development process. rototypes should be clickable and as close to what the final product should be as possible.
+
+### Example from Figma
+[See example prototype](https://www.figma.com/proto/lo3ommF09WtHsnwajQ7kLo/Prototyping-in-Figma?scaling=scale-down&page-id=0%3A1&starting-point-node-id=0%3A2&node-id=0%3A78)
 
 ## 5. Test
-Responsiveness and functionality.
+
+### Functional testing:
+- Feed input data and observe the output (aka black-box testing). This is for specific components to see that the intended output is achieved. For example, inputting an incorrect email format should yield an error message.
+- Manual testing involves trying each element in the user interface whereas automated testing works in a special testing environment and is run with scripts (i.e Selenium, Cypress).
+
+### Usability testing
+- Speed and performance of the application. If the app loads slowly, that would be a bad user experience.
+- Test the navigation for any issues and ease-of-use. A confusing navigation will put people off the application.
+- Check to see if the content is formatted properly for easy consumption. No giant blocks of text in small fonts.
+- Try the app on your phone or use the browser dev tools in different sizes. Common issues include misplaced elements that do not resize accordingly.
+
+### Cross browser testing
+- Open the app in multiple browsers and look for any inconsistencies in the user interface. Common problems include CSS and functionality issues. Some features may not work on all browsers.
+
+### Security Testing
+- Signup for the application and check to see if the authentication works as intended. This could be an email validation, or SMS. Some apps require both.
+- Test data security by checking to see that important information like passwords and credit card numbers are encrypted.

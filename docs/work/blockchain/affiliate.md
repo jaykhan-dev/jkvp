@@ -1,0 +1,7 @@
+---
+sidebar: auto
+---
+
+# Bitcoin Affiliate
+
+## 
