@@ -6,7 +6,6 @@ sidebar: auto
 
 ## Projects:
 
-
 ### Pitbull Community
 
 Homepage UI/UX redesign for a token running on the Binance Smart Chain.
@@ -44,3 +43,9 @@ A new blockchain concept for a city-wide metaverse.
 
 ![The Smartest City home page](/images/work/the-smartest-city/the-smartest-city.png)
 
+## Affiliate
+
+### Sound Money
+New project in the works. Currently it is in the planning and reconnaissance stage.
+
+[See project page](/work/blockchain/affiliate.md)
