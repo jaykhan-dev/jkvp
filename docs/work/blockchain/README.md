@@ -14,13 +14,6 @@ Homepage UI/UX redesign for a token running on the Binance Smart Chain.
 
 ![Pitbull Community Hero section](/images/work/pitbull/pitbull-hero.png)
 
-### BTonic
-Bitcoin based jobs, news, data and educational resources. 
-
-[See project page](/work/blockchain/btonic.md)
-
-![Bitonic Hero section](/images/work/btonic/btonic-hero.png)
-
 ### WooWay
 Combining Vue JS, WordPress and Blockchain to build modern online stores
 
@@ -43,9 +36,16 @@ A new blockchain concept for a city-wide metaverse.
 
 ![The Smartest City home page](/images/work/the-smartest-city/the-smartest-city.png)
 
-## Affiliate
+## Bitcoin
+
+### Sound Bit
+Jobs and companies that payout in Bitcoin
+
+[See project page](/work/blockchain/soundbit.md)
+
+![Bitonic Hero section](/images/work/soundbit/soundbit-hero.png)
 
 ### Sound Money
-New project in the works. Currently it is in the planning and reconnaissance stage.
+Affiliate project in the works. Currently it is in the planning and reconnaissance stage.
 
 [See project page](/work/blockchain/affiliate.md)

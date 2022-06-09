@@ -2,13 +2,13 @@
 sidebar: auto
 ---
 
-# BTonic
+# Sound Bit
 
-[See Prototype](https://btonic.netlify.app) - (Work in Progress)
+[See Prototype](https://soundbit.netlify.app) - (Work in Progress)
 
-![Bitonic hero section](/images/work/btonic/btonic-hero.png)
+![Bitonic hero section](/images/work/soundbit/soundbit-hero.png)
 
-**BTonic is a web application for **financial freedom**.  Bitcoin is by far the largest and most influential of the blockchains currently running, which is the main focus of this application.  The content includes news articles, Bitcoin data, learning resources, and companies that payout in Bitcoin.**
+**Soundbit is a web application for **financial freedom**.  Bitcoin is by far the largest and most influential of the blockchains currently running, which is the main focus of this application.  The content includes news articles, Bitcoin data, learning resources, and companies that payout in Bitcoin.**
 
 ## Project details
 
@@ -79,7 +79,7 @@ The following wireframes are made with Figma.  The goal of learning and finding 
 
 The news consists of the featured article which is the largest block with recommended articles on the side.  Following the top section are the popular news stories based on views and a podcast section because they are very popular these days. Finally, all the other news items appear at the bottom in a smaller format. 
 
-![News wireframe figma](/images/work/btonic/news-wireframe.png)
+![News wireframe figma](/images/work/soundbit/news-wireframe.png)
 
 #### Data
 
@@ -92,25 +92,25 @@ The news consists of the featured article which is the largest block with recomm
 - The fifth block is strictly about the mining operations with a hashrate and minig pools.
 - The final and sixth block are links to other resources such as the official Bitcoin whitepaper written by Satoshi Nakamoto.
 
-![Bitcoin Data](/images/work/btonic/bitcoin-data.png)
+![Bitcoin Data](/images/work/soundbit/bitcoin-data.png)
 
 #### Learn
 
 A simple layout with the ability to sort by data, category, author, and length (reading/video time).  The articles have a small blurb so that the reader can have an idea of what kind of article this is. 
 
-![Bitonic learn wireframe](/images/work/btonic/learn-wireframe.png)
+![Bitonic learn wireframe](/images/work/soundbit/learn-wireframe.png)
 
 #### Jobs
 
 These jobs can be posted either in the Wagtail backend or sourced from other job boards like [BitcoinerJobs]()
 
-![Bitonic jobs wireframe](/images/work/btonic/jobs-wireframe.png)
+![Bitonic jobs wireframe](/images/work/soundbit/jobs-wireframe.png)
 
 #### Account Page
-![Btonic account page](/images/work/btonic/btonic-accountpage.png)
+![Btonic account page](/images/work/soundbit/btonic-accountpage.png)
 
 #### Job Application Page
-![Btonic job apply page](/images/work/btonic/btonic-applypage.png)
+![Btonic job apply page](/images/work/soundbit/btonic-applypage.png)
 
 ## Design Styles
 
@@ -118,29 +118,29 @@ These jobs can be posted either in the Wagtail backend or sourced from other job
 
 Green colour palette
 
-![BToinc Green colour palette](/images/work/btonic/colour-palette.png)
+![BToinc Green colour palette](/images/work/soundbit/colour-palette.png)
 
-![Bitonic website color scheme](/images/work/btonic/color-scheme.png)
+![Bitonic website color scheme](/images/work/soundbit/color-scheme.png)
 
 ### Fonts
 
 1. [Baumans]() - Logo
 
-![Bitonic logo goolge font](/images/work/btonic/bitcoin-font.png)
+![Bitonic logo goolge font](/images/work/soundbit/bitcoin-font.png)
 
 2. [Alata]() - Main header
 
-![Bitonic main header google font](/images/work/btonic/main-header-font.png)
+![Bitonic main header google font](/images/work/soundbit/main-header-font.png)
 
 3. Outfit - Header 2,3, and paragraph
 
-![Bitonic paragraph and header 2 and 3 google font](/images/work/btonic/paragraph-h2h3.png)
+![Bitonic paragraph and header 2 and 3 google font](/images/work/soundbit/paragraph-h2h3.png)
 
 ## User Flows
 
 ### Job application
 
-![BToinc user flow for job application](/images/work/btonic/btonic-jobapp-userflow.png)
+![BToinc user flow for job application](/images/work/soundbit/btonic-jobapp-userflow.png)
 
 ## Income stream
 
