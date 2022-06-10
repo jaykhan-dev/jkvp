@@ -3,7 +3,7 @@ sidebar: auto
 ---
 
 # Sound Money
-(Name maybe subject to change depending on availability)
+A Bitcoin affiliate app
 
 [Prototype](https://soundmoney.netlify.app)
 
