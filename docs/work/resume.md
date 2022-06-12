@@ -4,86 +4,91 @@ sidebar: auto
 
 # Work History
 
-## UI/UX Developer
+## UI/UX Designer
 
 ### Freelance
 #### *Ottawa, ON*
 #### May 2021 - Present
 
-- Building user interfaces with VueJS and Tailwind CSS 
-- Deploying with Github, Netlify, AWS, Heroku
-- E2E testing with Cypress
+- Creating wireframes, prototypes, user flows, based on UX research
+- Creating content such as blogs, graphics, social media posts, and landing pages
+- Helped clients improve the e-commerce UX by modernizing the designs
+
 
 ## FQA Tester
 
 ### Keywords Studios
+#### On Call 
 #### *Montreal, QC*
 #### Jan 2020 - Aug 2021
 
-- Tested AAA video games on PS4, PS5, PC and XB1 in large teams of over 60 testers and small teams of 4
-- Reported bugs in Jira to ensure the User Experience was top notch
+- Tested video games on different platforms like PC, PS5, XBOX
+- Worked in large and small teams, coordinating tasks and in-game missions
+- Wrote bug reports in Jira with video and image attachments 
 - Regression, Load, Stress, Unit, and Functionality testing
-
 
 ## UI/UX Designer
 
-### Scribendi
+### Scribendi 
+#### Full time
 #### *Montreal, QC*
 #### Sep 2018 - Nov 2019
 
-- Created new designs for the checkout system that enhanced the User Experience by shortening the steps to buy an service online by 2
-- Drafted UX research documents and proposed new features to modernize the company brand
-- Edited educational videos with over 400,000 views
+- Conducted user research, created user task flows and persona maps
+- Designed wireframes and prototypes for new services with Illustrator
+- Edited educational videos content with over 500,000 views on Youtube
 
 
 ## Digital Print Analyst
 
-### CMHC/Xerox
+### CMHC/Xerox  
+#### Contract
 #### *Ottawa, ON*
 #### Feb 2018 - Aug 2018
 
 - Entered data into SAP database for archiving, invoicing, and digitization
 - Inspected all print and digital material and reduced downtime and errors
 
-
 ## Graphic Designer
 
-### Rampart Corp
+### Rampart Corp 
+#### Full time
 #### *Ottawa, ON*
 #### Apr 2017 - Oct 2017
 
-- Increased user engagement by making modern designs for social media platforms to promote law enforcement and military equipment brands
+- Created content for social media, web and print which increased engagement
 - Entered data into the Shopify platform on a daily basis
-
+- Tested the usability of the site and suggested UX 
 
 ## Graphic Designer
 
 ### In Air Marketing
+#### Freelance
 #### *Ottawa, ON*
 #### Aug 2016 - Apr 2017
 
-- Designed multimedia content for over 300 small businesses all over Canada to promote brands and products
-- Used design fundamentals for typography, color theory, 
-
+- Created digital assets and for over 500 small businesses in various industries 
+- Worked remotely and independently to complete tasks
 
 ## Graphic Designer
 
 ### Print Three
+#### On Call
 #### *Ottawa, ON*
 #### Dec 2015 - Jun 2016
 
-- Created print material for existing clients and reduced turnaround time by 10%
-- Conducted UX research on existing client websites 
-
+- Designed graphics for local clients based on existing templates or brand new ones
+- Advised existing clients on improving their web user experience
 
 ## Graphic Designer
 
 ### The Community Network
+#### Full Time
 #### *Ottawa, ON*
 #### Mar 2014 - Jun 2015
 
-- Designed multimedia content for over 500 small businesses across Canada to promote products and brands 
-- Maintained an output of 5 advertisements per day and worked overtime to ensure all projects were completed
+- Created digital assets and branding material for over 500 businesses in Canada
+- Worked in a team and also independently to complete tasks
 
 
 ## Education
@@ -103,6 +108,6 @@ Joint program with Carleton University
 September 2007 - April 2011
 
 ## Languages
-- English: fluent in reading and writing
+- English: fluent in soeaking, reading and writing
 - French: beginner reading
 - Urdu: spoken
