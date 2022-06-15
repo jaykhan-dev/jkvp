@@ -3,9 +3,12 @@ sidebar: auto
 ---
 
 # Sound Money
-A Bitcoin affiliate app
+Bitcoin affiliates and marketing app.  Blogging and learning resources are the main way to keeping content flowing.
 
 [Prototype](https://soundmoney.netlify.app)
+
+![Sound Money Hero](/images/work/soundmoney/soundmoney-hero.png)
+
 
 ## Why Bitcoin?
 It is currently the most widely used from of digital currency.  Being the first and greatest crypto asset, I'm betting on Bitcoin rather than the thousands of altcoins which have very little utility beyond its own ecosystem. 
@@ -53,13 +56,11 @@ Storing and saving Bitcoin in hardware wallets is by far the safest way.  I see 
 [Whitepaper](https://lightning.network/lightning-network-paper.pdf)
 
 
-#### Affiliate Programs
-My goal for reselling is to find a product that has utility and ease-of-use.  Currently, the UX of blockchain and crypto is in the early stages and the industry as a whole is still working out the best practices.
-
 - [Bolt Card](https://www.coincorner.com/Affiliates)
 
 ### Earn/Faucet
 [Cointiply](http://www.cointiply.com/referrals)
+[FaucetPay]()
 
 ### Mining
 [Old Mining](https://oldmining.com/earning/)
