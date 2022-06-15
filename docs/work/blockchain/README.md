@@ -28,14 +28,6 @@ Music project on the Algorand Blockchain
 
 ![Endeavr Hero](/images/work/endeavr/endeavr-new-bg.png)
 
-
-### The Smartest City
-A new blockchain concept for a city-wide metaverse.
-
-[See project page](/work/blockchain/the-smartest-city.md)
-
-![The Smartest City home page](/images/work/the-smartest-city/the-smartest-city.png)
-
 ## Bitcoin
 
 ### Sound Bit

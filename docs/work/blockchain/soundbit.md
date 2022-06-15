@@ -75,30 +75,7 @@ It makes sense to me as a citizen, that I should have self-custody of my money a
 ### Wireframes
 The following wireframes are made with Figma.  The goal of learning and finding Bitcoin related jobs is paramount and where each wireframe is aiming for.
 
-#### News
-
-The news consists of the featured article which is the largest block with recommended articles on the side.  Following the top section are the popular news stories based on views and a podcast section because they are very popular these days. Finally, all the other news items appear at the bottom in a smaller format. 
-
-![News wireframe figma](/images/work/soundbit/news-wireframe.png)
-
 #### Data
-
-*There are six panels filled with data from 3rd party APIs like CoinLore.*
-
-- The first has more general information about the blockchain, like supply numbers.  
-- The second block is more specific to the price and price changes over a period of time with a chart. 
-- The third is a pie chart that compares Bitcoin's dominance as compared to other crypto currencies which came about as a result of blockchain technology. 
-- The fourth block is limited to exchanges and their key pairs.  Essentially, this is for those who want to know where to buy Bitcoin easily. 
-- The fifth block is strictly about the mining operations with a hashrate and minig pools.
-- The final and sixth block are links to other resources such as the official Bitcoin whitepaper written by Satoshi Nakamoto.
-
-![Bitcoin Data](/images/work/soundbit/bitcoin-data.png)
-
-#### Learn
-
-A simple layout with the ability to sort by data, category, author, and length (reading/video time).  The articles have a small blurb so that the reader can have an idea of what kind of article this is. 
-
-![Bitonic learn wireframe](/images/work/soundbit/learn-wireframe.png)
 
 #### Jobs
 
@@ -145,8 +122,6 @@ Green colour palette
 ## Income stream
 
 How can this platform make money?
-
-
 
 ## Why Bitcoin?
 Bitcoin has certain advantages over traditional finance.  
