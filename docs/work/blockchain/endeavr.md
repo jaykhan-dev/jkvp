@@ -4,7 +4,7 @@ sidebar: auto
 
 # Endeavr
 
-[See live prototype](https://music-endeavr.netlify.app/)
+[See live prototype](https://soundendeavr.netlify.app/)
 
 ![Endeavr Hero](/images/work/endeavr/endeavr-new-bg.png)
 
