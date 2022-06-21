@@ -4,6 +4,11 @@ sidebar: auto
 
 # Logos
 
+## Sound Co.
+A combination of the Zen Enso, AUM, and the bass clef, this logo is for the blockchain suite of apps under the **Sound** banner 
+
+![Sound Co logo](/images/work/logos/sound-logo-small.png)
+
 ## Endeavr
 I've always enjoyed pirate stories and shows which is where the inspiration came from.  I tried to keep it simple but also bold. Endeavr is the name of the ship. 
 
