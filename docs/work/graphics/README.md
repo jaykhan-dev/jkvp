@@ -18,6 +18,9 @@ sidebar: auto
 ## Logos
 [See projects](/work/graphics/logos.md)
 
+## Motion Graphics
+[See projects](/work/graphics/motion-graphics.md)
+
 
 
 
